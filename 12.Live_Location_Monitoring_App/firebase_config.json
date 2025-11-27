@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "livelocationshareapp-435e1",
+  "private_key_id": "863111dfad8d8a6f4abacd49aadef2059d30ae85",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDNgPhhgdFaJKDo\nq8tUIIYq9kf02RwM5Jwqb8ihiw9/V2Siz0mieHNlJzSoiwipxnf4UWv57DNgndFF\nMgkrp0kfmF4apCIZ1EbBQcSpyRbuko1TyBQkvL6BVGp7tYUZzFwwY3PRPcGlE8BR\nZUN1K0rg6pUWJLv4U71eLeib5/PcZUiD6sfDNVdW9AFL55paTxPyhN2unQvro8I0\nytxvqTWrt6cBQIL6pKGs3ZSYPvXKEgEdQyY1gtFWM0LFhjqnwBx9WQu12Dn5NW9u\nYkgEGR2sjZyzxBrfu+ygpD8U6A48TemTZTg5kcTv9vJwPWhQW9aK2zfoE4It4jIg\nACcoNRCbAgMBAAECggEAIGMRggh8DnlUVKbygf0oN/AdcgSfa5bB19xLIc5xME/9\nH72MbMsP4KK3pVJYGK2bLarjWf10MWdd2kpi8JrKJu0T853nc+ulBQMQ8/Mppoq5\nNDmFly6Z1XcQ2xNF+UVgSA38bD8P3CzLM+jCI16hy+WcfmNmrmHAJ+4TSTLal2Kk\nqZ1w6WroLCul+ujp1JNjuYA2hpJ6t/Abv1qsP4rOn95EeVyYcoog/QWgZfsgyf+O\nZHhCOzwz71QCJ5nJn4k6lqL+Vcp1kb4qSX04Ux5l4c0Ayhq7Xdg+9lHE8adthS7s\n4pbnmnHXczQCq7yAgl8Ica63ItcnHi20feMRL16qZQKBgQDlthFXOejH5rx4b70+\nOfQpPKNbJQvaBJtzfJDAj5vzdytjyFBO1px3YhpiZiI5DBCvibr4lduS0O7w3Fc/\nk+DNhwFobUzDq92VeLnSa/KItBwDYpUr533MIg+LbcZhLXw5/U6B5vdZSIifP5a3\nC4nBqdNaYUbUPnJDsF79o1YiDQKBgQDlBbBuS/Vvn7YAFzIJmjWB9MBoZ/Ufv7n6\n1UP4mYXAJl+ECLdAK8Ay8ERITVBiWGZPoUWcapBTVwFvmf6OYkkqW2RXW4LQumHm\nu5wL2YrgqU46MvGzbq3EU67uVcmrdNnjZo4GtOraXvurRcoEvPTPn0hQGPRDbC0U\ndIX1P1NbRwKBgCF/dHXo3vZPwoo5mTo6z004J4ZCF8FaTKUBtEYwawiNB0nMy1FD\n4JtUNg7FYBY7mS9QAXEAwX1edImxSBPgZ7bxChaFYd1i8bQ7X7W8wiiHQ1KHDMPT\nRTgAe43Um0pOjMAUHV+6I7Xkau/2IO9egl84ebbDWsXWuWj/jkqkiAn9AoGAXz2M\nb3HbMX5je4op3uBoXBDiawjAYWGj//HsgFenzY6nrgrJ2j/Xf9d3LfIo+Zz1fyv7\n/N48Asxt5nFN8PxinODAy6tcrVy1FfTzIeJn5KHDzGQfK5VdYgXC+45lfY3shqrB\naXyXJhTV6BXvuySxUh5VPioCen9kB9ulUaXyDkUCgYBr+sWdikR7PO0jKKW1IkxM\nLDwpwA0XPNwnet2pEueNUYVazMzAUOBqZLjg+DklSEW5Foy0U4dmUo0TuOlgHhLX\npfO8krjCnmZHedlt1Wfi7j/aHf9NUV0zEwl381buP15ki07HSOP44tswt8B7tEiq\nGKocnLst6loIutSvkyfz5g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@livelocationshareapp-435e1.iam.gserviceaccount.com",
+  "client_id": "107134475872592266002",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40livelocationshareapp-435e1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

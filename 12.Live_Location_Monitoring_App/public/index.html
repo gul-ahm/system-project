@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login | Live Location Tracker</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f7f7f7;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .login-box {
+      background: white;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      width: 300px;
+    }
+    h2 {
+      text-align: center;
+    }
+    input, select, button {
+      width: 100%;
+      padding: 10px;
+      margin-top: 10px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    button {
+      background: #007bff;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #0056b3;
+    }
+    .register-link {
+      text-align: center;
+      margin-top: 15px;
+    }
+  </style>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-database.js"></script>
+</head>
+<body>
+  <div class="login-box">
+    <h2>Login</h2>
+    <input type="text" id="username" placeholder="Enter username" required>
+    <input type="password" id="password" placeholder="Enter password" required>
+    <select id="role">
+      <option value="user">Simple User</option>
+      <option value="admin">Admin</option>
+    </select>
+    <button onclick="login()">Login</button>
+    <p class="register-link">
+      <a href="register.html">New User? Register Now</a>
+    </p>
+  </div>
+
+  <script>
+    const firebaseConfig = {
+      apiKey: "AIzaSyDOFB-FAcuslFyVRSRpnFEJ-r97reDb_H0",
+      authDomain: "livelocationshareapp-435e1.firebaseapp.com",
+      databaseURL: "https://livelocationshareapp-435e1-default-rtdb.firebaseio.com",
+      projectId: "livelocationshareapp-435e1",
+      storageBucket: "livelocationshareapp-435e1.appspot.com",
+      messagingSenderId: "212107377259",
+      appId: "1:212107377259:web:18084123bb16bdc6fdef2e"
+    };
+
+    firebase.initializeApp(firebaseConfig);
+
+    function login() {
+      const username = document.getElementById("username").value.trim();
+      const password = document.getElementById("password").value;
+      const role = document.getElementById("role").value;
+
+      if (!username || !password) {
+        alert("Please enter both username and password.");
+        return;
+      }
+
+      if (role === "admin") {
+        if (username !== "admin123" || password !== "adminpass") {
+          alert("Invalid admin credentials.");
+          return;
+        }
+        window.location.href = `dashboard_admin.html`;
+      } else {
+        const ref = firebase.database().ref("users/" + username);
+        ref.once("value", (snapshot) => {
+          if (snapshot.exists()) {
+            const userData = snapshot.val();
+            if (userData.password === password) {
+              window.location.href = `dashboard_user.html?user=${username}`;
+            } else {
+              alert("❌ Incorrect password.");
+            }
+          } else {
+            alert("❌ User does not exist.");
+          }
+        });
+      }
+    }
+  </script>
+</body>
+</html>

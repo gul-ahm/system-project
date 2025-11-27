@@ -1,0 +1,293 @@
+Address,Acquisition_Status,Neighbourhood,Units,Cap_Rate,Forecast_YOC,Price/Door,Ask_Price,Predicted Sale Price,Internal_Note,DOM,Underwriting_URL,Lead_Date,City,Contacts,Lead_Channel,Listing_URL,Gross_Revenue,Municipal_Value,Building_Area,Walk_Score,Transit_Score,Year_Built,Modelled,Under_Offer/Sold,Removed_from_Market,Underwriting,Acquisition_Net_Revenue,Acquisition_NOI,Potential_Project_Cost,Forecast_Net_Revenue,Forecast_NOI,Underwriting_Date,Documents,Legal Documents,Google_Maps_Link,Created_By,Last_Modified_By,Tasks,Call_Logs,Email_Logs,Email_Attachment,Priority_Level,Offer_Date,Closing_Date,Data_Room_URL,GR/Price,Task_Type,Task_Status,Walkscore_URL,sale_price,number_of_units,year_built,walk_Score,transit_Score,Forecasted_Sale_Price,forecasted price using random forest
+"710 - 730, 30e Avenue",Modelled,Lachine,61,,,$227459,$13875000.00,$762953.31,"JM 03/27
+No change in ownership
+Nom
+ELEFTHERIADIS, MARIA
+Statut aux fins d'imposition scolaire
+Personne physique
+Adresse postale
+3705 PL JAVA 230, BROSSARD QUEBEC, J4Y 0E4
+Date d'inscription au rôle
+2017-12-05",52.0,,2/20/2025,0,,Off-Market,,$649416.0,$9813300.00,4766.0,77.0,54,1968,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=710%20-%20730%2C%2030e%20Avenue,Wahab Ab,Wahab Ab,,,,,Medium,,,,5%,,,https://www.walkscore.com/score/710%20-%20730%2B%2030e%20Avenue,13875000.0,61.0,1968.0,77.0,54.0,9881581.150793651,9881581.150793651
+"180, boulevard Saint-Joseph",On Hold,Lachine,18,3.62%,3.74%,$497222,$8950000.00,$762953.31,"JM 03/26
+Property no longer listed, but no change on eval web
+
+10240486 CANADA INC.
+Statut aux fins d'imposition scolaire
+Personne morale
+Adresse postale
+3434 PEEL 1E, MONTREAL QUEBEC, H3A 3K8
+Date d'inscription au rôle
+2022-10-21
+Conditions particulières d'inscription
+Copropriété divise",244.0,https://docs.google.com/spreadsheets/d/1i4vZ3tcszN6HNWqgPcjq9nD5P-ZtL7HcFDmW4w_n1fg/edit?usp=drive_link,8/12/2024,0,Sandro Marzitelli,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-est/21461064?view=Summary,,$8591200.00,2112.0,61.0,57,2022,checked,,,"""170 - 180, boulevard Saint-Joseph""",$995173,$749103,$21188169,$1044932,$791479,8/26/2024,,,https://www.google.com/maps/search/?api=1&query=180%2C%20boulevard%20Saint-Joseph,Wahab Ab,Wahab Ab,,,,,Low,,,,0%,,,https://www.walkscore.com/score/180%2B%20boulevard%20Saint-Joseph,8950000.0,18.0,2022.0,61.0,57.0,8222905.132936507,8222905.132936507
+"170, boulevard Saint-Joseph",Lead,Lachine,18,3.62%,3.74%,$497222,$8950000.00,$762953.31,,237.0,https://docs.google.com/spreadsheets/d/1i4vZ3tcszN6HNWqgPcjq9nD5P-ZtL7HcFDmW4w_n1fg/edit?usp=drive_link,8/19/2024,0,Sandro Marzitelli,Market,https://www.centris.ca/en/commercial-units~for-rent~saint-jean-sur-richelieu/26119416?view=Summary,$500328.0,$8586000.00,2110.0,61.0,57,2022,checked,,,"""170 - 180, boulevard Saint-Joseph""",$995173,$749103,$21188169,$1044932,$791479,8/26/2024,,,https://www.google.com/maps/search/?api=1&query=170%2C%20boulevard%20Saint-Joseph,Wahab Ab,Wahab Ab,,,,,Medium,,,,6%,,,https://www.walkscore.com/score/170%2B%20boulevard%20Saint-Joseph,8950000.0,18.0,2022.0,61.0,57.0,8222905.132936507,8222905.132936507
+"480Z - 510Z, 2e Avenue",Lead,Lachine,26,,,$307500,$7995000.00,$762953.31,,276.0,,7/11/2024,0,Nader Attara,Market,,$442920.0,$1153200.00,,72.0,55,1958,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=480Z%20-%20510Z%2C%202e%20Avenue,Wahab Ab,Wahab Ab,,,,,Medium,,,,6%,,,https://www.walkscore.com/score/480Z%20-%20510Z%2B%202e%20Avenue,7995000.0,26.0,1958.0,72.0,55.0,6967325.134861153,6967325.134861153
+"4280, Rue Broadway",Contacted,Lachine,21,3.28%,4.59%,$266429,$5595000.00,$762953.31,Revenus seront 295K$ à partir du 1 Juillet 2025. Superbe propriété très bien localisée. Immeuble situé au cœur de Lachine. La propriété bénéficie d'un emplacement stratégique. Immeubles isolés de 21 unités composés de 6 x 4.5 + 15 x 3.5 de très bonne dimension. Très belle opportunité d'optimisation dans un secteur dans lequel il y a une forte demande locative. Cet immeuble est une opportunité rare sur le marché puisqu'il s'agit d'un secteur très convoité par les investisseurs.,34.0,https://docs.google.com/spreadsheets/d/1WnNIMaYJe3veGbQTIfGQFsmBBsLPGstMk27rjQqbpTY/edit?gid=1490799601#gid=1490799601,3/10/2025,0,Hendrik Lapointe,Market,https://pmml.ca/proprietes/multi-logements/4280-rue-broadway-lachine--wpsvxr,$295000.0,$2156400.00,1339.2,67.0,49,1958,checked,,,"""4280, Rue Broadway""",$267916,$183692,$6246198,$380615,$286745,3/11/2025,,,https://www.google.com/maps/search/?api=1&query=4280%2C%20Rue%20Broadway,Wahab Ab,Wahab Ab,,3/27/2025,,,Medium,,,,5%,,,https://www.walkscore.com/score/4280%2B%20Rue%20Broadway,5595000.0,21.0,1958.0,67.0,49.0,5346145.4563631965,5346145.4563631965
+"805, 25e Avenue",Lead,Lachine,21,,,$245238,$5150000.00,$762953.31,,276.0,,7/11/2024,0,Jaclyn Rabin,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-mercier-hochelaga-maisonneuve/26510673?view=Summary&uc=25,$291660.0,$4300000.00,1477.7,64.0,53,1958,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=805%2C%2025e%20Avenue,Wahab Ab,Wahab Ab,,,,,Medium,,,,6%,,,https://www.walkscore.com/score/805%2B%2025e%20Avenue,5150000.0,21.0,1958.0,64.0,53.0,5374991.043664783,5374991.043664783
+"965 - 985, 13e Avenue",On Hold,Lachine,18,2.74%,5.67%,$247222,$4450000.00,$762953.31,"JM 03/26
+No longer listed. Eval web not changed since 2022
+Nom
+I & S IMMOBILIER INC.
+Statut aux fins d'imposition scolaire
+Personne morale
+Adresse postale
+1185 PLACE SANTERRE , BROSSARD QUEBEC, J4X 1X3
+Date d'inscription au rôle
+2022-07-07",258.0,https://docs.google.com/spreadsheets/d/1KsMOLzoqVy8vpEfrU_OErjx-Emh8m2lTNq7Kx3dUkg8/edit?usp=drive_link,7/29/2024,0,Azamat Kar,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-rosemont-la-petite-patrie/11155508?view=Summary,,$959600.00,,66.0,51,1957,checked,,,"""965 - 985, 13e Avenue""",$184901,$121918,$5082926,$356184,$288060,3/3/2025,,,https://www.google.com/maps/search/?api=1&query=965%20-%20985%2C%2013e%20Avenue,Wahab Ab,Wahab Ab,,,,,Low,,,,0%,,,https://www.walkscore.com/score/965%20-%20985%2B%2013e%20Avenue,4450000.0,18.0,1957.0,66.0,51.0,5013038.623965558,5013038.623965558
+"724 - 726, 12e Avenue",Lead,Lachine,12,4.04%,11.05%,$216667,$2600000.00,$762953.31,,430.0,https://docs.google.com/spreadsheets/d/1UpELNoZWE0cvHOBsaFWpoS6FhCXw239sgLnXttkbo2g/edit?usp=drive_link,2/8/2024,0,Silvanna Veltri,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-villeray-saint-michel-parc-extension/14060977?view=Summary,$147540.0,$1735800.00,1000.0,83.0,54,,checked,,,"""724 - 726, 12e Avenue""",$145327,$104912,$3019391,$376612,$333735,8/6/2024,,,https://www.google.com/maps/search/?api=1&query=724%20-%20726%2C%2012e%20Avenue,Wahab Ab,Wahab Ab,,,,,Medium,,,,6%,,,https://www.walkscore.com/score/724%20-%20726%2B%2012e%20Avenue,2600000.0,12.0,,83.0,54.0,2611694.0069442703,2611694.0069442703
+"100 - 120, 18e Avenue",Lead,Lachine,13,,,$130692,$1699000.00,$762953.31,,27.0,,3/17/2025,0,Alice Balabanian,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-ville-marie/22659472?view=Summary,$124800.0,$2318900.00,,88.0,49,1959,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=100%20-%20120%2C%2018e%20Avenue,Wahab Ab,Mamoun Moamah,,,,,Urgent,,,,7%,,,https://www.walkscore.com/score/100%20-%20120%2B%2018e%20Avenue,1699000.0,13.0,1959.0,88.0,49.0,2698912.5951230647,2698912.5951230647
+"105, Rue Milton",Modelled,Le Plateau-Mont-Royal,112,2.87%,3.83%,$244196,$27350000.00,$2035599.21,,132.0,https://docs.google.com/spreadsheets/d/1pc5NcpRtk5UINZ9QQTUmxhWdqe7m6ZwLdWqxZ-hdjRs/edit?gid=863663888#gid=863663888,12/2/2024,0,,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-villeray-saint-michel-parc-extension/9739862?view=Summary&uc=25,$1338050.0,$15225000.00,3683.3,99.0,87,1964,checked,,,"""105, Rue Milton""",$1364742,$760635,$29483267,$1813959,$1130582,12/3/2024,,,https://www.google.com/maps/search/?api=1&query=105%2C%20Rue%20Milton,Wahab Ab,Wahab Ab,,,,,Medium,,,,5%,,,https://www.walkscore.com/score/105%2B%20Rue%20Milton,27350000.0,112.0,1964.0,99.0,87.0,19001813.14814815,19001813.14814815
+"3660, Rue Lorne-Crescent",Contacted,Le Plateau-Mont-Royal,29,,,$465517,$13500000.00,$2035599.21,,7.0,,4/6/2025,0,Philippe Carcone,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-le-plateau-mont-royal/20797574?view=Summary,,$15889000.00,,98.0,80,1936,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=3660%2C%20Rue%20Lorne-Crescent,Jonathan Mills,Wahab Ab,,4/7/2025,,,,,,,0%,,,https://www.walkscore.com/score/3660%2B%20Rue%20Lorne-Crescent,13500000.0,29.0,1936.0,98.0,80.0,10544433.690847835,10544433.690847835
+"3620 - 3630, Rue Hutchison",Modelled,Le Plateau-Mont-Royal,42,3.35%,4.12%,$266667,$11200000.00,$2035599.21,"Use of property
+Residential
+Year built
+1953
+Lot area
+9,001 sqft
+Parking (total)
+Driveway (4)
+Number of units
+Residential (42)
+Residential units
+24 x 2 ½, 18 x 3 ½
+Potential gross revenue
+590,892 $
+99
+
+2 units in the heart of McGill Ghetto / Milton Parc. 2 X 21 units. Exceptional location next to McGill University. Located steps away from Place-des-Arts Metro station, Percival Molson Memorial Stadium. Extremely sought after location by students and tourists. A few blocks from Downtown, Mount-Royal, and Eaton Center. Good potential for rent increase. This gem of a property is rare on the market.
+
+",199.0,https://docs.google.com/spreadsheets/d/1Y2_zABYvulfewjI7g_-fTaS97ACBPSuySib8uszwOYY/edit?gid=633605388#gid=633605388,9/26/2024,0,Mandougou Boicel,Market,https://www.realtor.ca/real-estate/27473523/3620-3630-rue-hutchison-montr%C3%A9al-le-plateau-mont-royal-le-plateau-mont-royal,,$4009700.00,932.8,98.0,79,1953,checked,,,"""3620 - 3630, rue hutchison""",$568223,$394056,$13080180,$718597,$539205,9/30/2024,,,https://www.google.com/maps/search/?api=1&query=3620%20-%203630%2C%20Rue%20Hutchison,Wahab Ab,Wahab Ab,,,,,,,,,0%,,,https://www.walkscore.com/score/3620%20-%203630%2B%20Rue%20Hutchison,11200000.0,42.0,1953.0,98.0,79.0,9757289.375802202,9757289.375802202
+"3441, Rue Jeanne-Mance",Lead,Le Plateau-Mont-Royal,29,3.55%,3.96%,$293103,$8500000.00,$2035599.21,,186.0,https://docs.google.com/spreadsheets/d/1OTQLXVjZ3Rx1es2vSNflxFQLms830aqC_s1Bb_T5IZA/edit?usp=drive_link,10/9/2024,0,GLORIA,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-ville-marie/11717814?view=Summary,$449434.0,$5152000.00,,99.0,90,1941,checked,,,"""3441, Rue Jeanne-Mance""",$451690,$301629,$9396882,$532018,$371779,2/16/2025,,,https://www.google.com/maps/search/?api=1&query=3441%2C%20Rue%20Jeanne-Mance,Wahab Ab,Wahab Ab,,,,,Medium,,,,5%,,,https://www.walkscore.com/score/3441%2B%20Rue%20Jeanne-Mance,8500000.0,29.0,1941.0,99.0,90.0,7435063.154124816,7435063.154124816
+"4370, rue de Brébeuf",Lost,Le Plateau-Mont-Royal,42,,,$182143,$7650000.00,$2035599.21,"JM 03/27
+Change on eval web
+Nom
+ENTOURAGE IMMOBILIER INC.
+Statut aux fins d'imposition scolaire
+Personne morale
+Adresse postale
+847 AV STUART , OUTREMONT QUEBEC, H2V 3H7
+Date d'inscription au rôle
+2024-10-04",,,,0,,Off-Market,,$461436.0,$5978100.00,,99.0,76,1966,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=4370%2C%20rue%20de%20Br%C3%A9beuf,Wahab Ab,Wahab Ab,,,,,Low,,,,6%,,,https://www.walkscore.com/score/4370%2B%20rue%20de%20Br%C3%A9beuf,7650000.0,42.0,1966.0,99.0,76.0,7846209.732778562,7846209.732778562
+"5011 - 5111, Avenue du Parc",Contacted,Le Plateau-Mont-Royal,17,,,$428824,$7290000.00,$2035599.21,Semi-commercial 3-storey-building with 12 residential units and 5 commercial locals Description des unités -- Unit size 7 x 3.5; 2 x 4.5; 3 x 5.5. Three units have been renovated. (41447951),276.0,,7/11/2024,0,Michel Bensmihen,Market,https://www.realtor.ca/real-estate/26762316/5011-5111-av-du-parc-montr%C3%A9al-le-plateau-mont-royal-mile-end,,$6780400.00,,100.0,70,1935,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=5011%20-%205111%2C%20Avenue%20du%20Parc,Wahab Ab,Wahab Ab,,3/26/2025,,,,,,,0%,,,https://www.walkscore.com/score/5011%20-%205111%2B%20Avenue%20du%20Parc,7290000.0,17.0,1935.0,100.0,70.0,6428636.57042578,6428636.57042578
+"4892 - 4910, boulevard Saint-Laurent",Lead,Le Plateau-Mont-Royal,15,3.93%,5.78%,$453333,$6800000.00,$2035599.21,,230.0,https://docs.google.com/spreadsheets/d/11ljlSJuBUIzSnN6c7gwgPvd17xv6YsXCPupVLGB4KwI/edit?usp=drive_link,8/26/2024,0,Zuo Xing Ye,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-le-plateau-mont-royal/9363929?view=Summary,$462804.0,$7988200.00,1750.0,100.0,77,,checked,,,"""4892 - 4910, boulevard Saint-Laurent""",$487982,$309613,$8617096,$693285,$498376,8/27/2024,,,https://www.google.com/maps/search/?api=1&query=4892%20-%204910%2C%20boulevard%20Saint-Laurent,Wahab Ab,Wahab Ab,,,,,High,,,,7%,,,https://www.walkscore.com/score/4892%20-%204910%2B%20boulevard%20Saint-Laurent,6800000.0,15.0,,100.0,77.0,4893329.389626807,4893329.389626807
+5255 Rue Rivard,Contact Vendor ,Le Plateau-Mont-Royal,31,3.98%,6.09%,$148387,$4600000.00,$2035599.21,"Nom
+TURPIN, MICHEL
+Statut aux fins d'imposition scolaire
+Personne physique
+Adresse postale
+209 CH DE L'AEROPORT , SAINT-DONAT-DE-MONTCALM QUEBEC, J0T 2C0
+Date d'inscription au rôle
+1994-11-14
+Nom
+LAMBIN, GINETTE
+Statut aux fins d'imposition scolaire
+Personne physique",276.0,https://docs.google.com/spreadsheets/d/10PDG93WE1nZZmgUA-o3-MvUCRdcCb9z8fU7iw7GByL8/edit?usp=drive_link,7/11/2024,0,Houssem Riahi,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-ahuntsic-cartierville/12138282?view=Summary,$293820.0,$3118200.00,631.1,99.0,81,,checked,,,5255 Rue Rivard,$288231,$183277,$5254224,$428085,$319983,10/1/2024,,,https://www.google.com/maps/search/?api=1&query=5255%20Rue%20Rivard,Wahab Ab,Mamoun Moamah,,,,,Very High,,,,6%,,,https://www.walkscore.com/score/5255%20Rue%20Rivard,4600000.0,31.0,,99.0,81.0,6143383.341216907,6143383.341216907
+"5119 - 5129, Rue Saint-Denis",Lost,Le Plateau-Mont-Royal,15,4.19%,7.35%,$293000,$4395000.00,$2035599.21,"JM 03/26
+Property has been sold
+Nom
+VINCENT, NATHALIE
+Statut aux fins d'imposition scolaire
+Personne physique
+Adresse postale
+1365 DEPATIE , SAINT-LAURENT QUEBEC, H4L 4A3
+Date d'inscription au rôle
+2024-06-20",276.0,https://docs.google.com/spreadsheets/d/19Re0l8YUUrYo3SmIRQvgtuPEUVYNikovOfUhQS-i-GE/edit?usp=drive_link,7/11/2024,0,Robert Boyer,Market,,,$2824500.00,1138.0,98.0,81,1910,checked,,,"""5119 - 5129, Rue Saint-Denis""",$263704,$184013,$5284093,$480956,$388572,7/23/2024,,,https://www.google.com/maps/search/?api=1&query=5119%20-%205129%2C%20Rue%20Saint-Denis,Wahab Ab,Wahab Ab,,,,,Low,,,,0%,,,https://www.walkscore.com/score/5119%20-%205129%2B%20Rue%20Saint-Denis,4395000.0,15.0,1910.0,98.0,81.0,5144463.301573263,5144463.301573263
+"5160 - 5170, Rue Saint-Hubert",Lead,Le Plateau-Mont-Royal,16,,,$259375,$4150000.00,$2035599.21,,146.0,,11/18/2024,0,George Papadakos,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-rosemont-la-petite-patrie/15927614?view=Summary,$262632.0,$3423000.00,970.0,98.0,80,1945,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=5160%20-%205170%2C%20Rue%20Saint-Hubert,Wahab Ab,Wahab Ab,,,,,High,,,,6%,,,https://www.walkscore.com/score/5160%20-%205170%2B%20Rue%20Saint-Hubert,4150000.0,16.0,1945.0,98.0,80.0,4445081.94617801,4445081.94617801
+"2251 - 2265, Rue Gilford",Lead,Le Plateau-Mont-Royal,15,3.37%,4.17%,$266667,$3999999.00,$2035599.21,,191.0,https://docs.google.com/spreadsheets/d/13aVxrwiCzNdBSXweBKbbMN6c5kqaxCAXeLKyzq8rZnI/edit?gid=633605388#gid=633605388,10/4/2024,0,Nathalie Carrier,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-mercier-hochelaga-maisonneuve/25011589?view=Summary,,$2980000.00,905.0,96.0,62,1949,checked,,,"""2251 - 2265, rue gilford""",$225573,$144888,$4775349,$282028,$198923,10/7/2024,,,https://www.google.com/maps/search/?api=1&query=2251%20-%202265%2C%20Rue%20Gilford,Wahab Ab,Wahab Ab,,,,,,,,,0%,,,https://www.walkscore.com/score/2251%20-%202265%2B%20Rue%20Gilford,3999999.0,15.0,1949.0,96.0,62.0,3502975.974384872,3502975.974384872
+"5312 - 5324, Avenue Papineau",Modelled,Le Plateau-Mont-Royal,13,4.69%,6.60%,$261538,$3400000.00,$2035599.21,,185.0,https://docs.google.com/spreadsheets/d/1i5d3nkEHqpRX5awK2D5mJ38i2mGBOAfAmM7IqSYH29M/edit?gid=633605388#gid=633605388,10/10/2024,0,,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-ville-marie/21275964?view=Summary,$220000.0,$2803900.00,,97.0,68,1933,checked,,,"""5312 - 5324, Avenue Papineau""",$215100,$159570,$3685060,$300259,$243063,10/10/2024,,,https://www.google.com/maps/search/?api=1&query=5312%20-%205324%2C%20Avenue%20Papineau,Wahab Ab,Wahab Ab,,,,,High,,,,6%,,,https://www.walkscore.com/score/5312%20-%205324%2B%20Avenue%20Papineau,3400000.0,13.0,1933.0,97.0,68.0,3419863.7645387445,3419863.7645387445
+"3426, Rue Saint-André",On Hold,Le Plateau-Mont-Royal,16,4.97%,5.40%,$212188,$3395000.00,$2035599.21,"JM - 03/18
+Spoke to Fanny
+Seller is willing to be flexible on the price.
+Windows in the back to be done.
+2 units as possible vacancies, the owner in a 4.5 and one tenant upstairs.
+The revenue number is before the increases for this year. 5% increase for this year. 
+",1008.0,https://docs.google.com/spreadsheets/d/155-nfFSIBlxjmeAc7gWaLnuHhDC_jz0D2xKza4mlvSE/edit?gid=539167205#gid=539167205,7/10/2022,0,Fanny Rooseboom,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-villeray-saint-michel-parc-extension/27631253?view=Summary,$219060.0,$3300000.00,812.5,99.0,88,1885,checked,,,"""3426, Rue Saint-André""",$223113,$144006,$3419488,$270979,$184513,3/19/2025,,,https://www.google.com/maps/search/?api=1&query=3426%2C%20Rue%20Saint-Andr%C3%A9,Wahab Ab,Wahab Ab,Underwrite the opportunity,,Unnamed record,,Low,,,,6%,,,https://www.walkscore.com/score/3426%2B%20Rue%20Saint-Andr%C3%A9,3395000.0,16.0,1885.0,99.0,88.0,4247790.975645001,4247790.975645001
+"824, Rue Cherrier",Lead,Le Plateau-Mont-Royal,12,,,$279000,$3348000.00,$2035599.21,,34.0,,3/10/2025,0,Marie Lyne Labrosse,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-mercier-hochelaga-maisonneuve/12524063?view=Summary&uc=25,,$3088100.00,962.5,99.0,88,1930,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=824%2C%20Rue%20Cherrier,Wahab Ab,Wahab Ab,,,,,,,,,0%,,,https://www.walkscore.com/score/824%2B%20Rue%20Cherrier,3348000.0,12.0,1930.0,99.0,88.0,3673874.3643080457,3673874.3643080457
+"56, Rue Guilbault Ouest",Modelled,Le Plateau-Mont-Royal,16,4.31%,5.47%,$200000,$3200000.00,$2035599.21,"Ne manquez pas cette rare opportunité d'investissement ! Cet immeuble de 16 unités propose des studios spacieux. Treize unités sont entièrement meublées, équipées et louées au mois, tandis que trois sont louées à long terme et non meublées. L'immeuble a été entièrement rénové avec des fenêtres, portes, systèmes de chauffage, eau chaude centrale et installations électriques neufs, et dix unités ont été complètement refaites. Idéal pour les investisseurs cherchant un mélange de revenus locatifs à court et à long terme. Idéalement situé à proximité de tous les services et des transports en commun. (43094323)
+",135.0,https://docs.google.com/spreadsheets/d/1WaOmpWXRqmB9oJqu3FCcJiMItTvMSzoO1uihl4GaEtE/edit?gid=633605388#gid=633605388,11/29/2024,0,Saguy Elbaz,Market,https://www.realtor.ca/immobilier/27690654/56-rue-guilbault-o-montr%C3%A9al-le-plateau-mont-royal-le-plateau-mont-royal,,$2895100.00,488.3,100.0,84,1971,checked,,,"""56, Rue Guilbault Ouest""",$197950,$137891,$3587623,$258149,$196289,11/29/2024,,,https://www.google.com/maps/search/?api=1&query=56%2C%20Rue%20Guilbault%20Ouest,Wahab Ab,Wahab Ab,,,,,,,,,0%,,,https://www.walkscore.com/score/56%2B%20Rue%20Guilbault%20Ouest,3200000.0,16.0,1971.0,100.0,84.0,4354615.832753798,4354615.832753798
+"4025, Avenue des Érables",Lead,Le Plateau-Mont-Royal,16,,,$196875,$3150000.00,$2035599.21,,507.0,,11/23/2023,0,Marc-André Knot,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-ahuntsic-cartierville/20756337?view=Summary,$228996.0,$2931300.00,,96.0,72,,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=4025%2C%20Avenue%20des%20%C3%89rables,Wahab Ab,Wahab Ab,,,,,High,,,,7%,,,https://www.walkscore.com/score/4025%2B%20Avenue%20des%20%C3%89rables,3150000.0,16.0,,96.0,72.0,3431006.379966674,3431006.379966674
+"3632 - 3638, Rue Saint-Denis",Under Contract with Third Party,Le Plateau-Mont-Royal,18,4.98%,9.35%,$172222,$3100000.00,$2035599.21,"JM_03/20
+
+Offer accepted, financing dealdine this week
+
+Semi-commercial building. 16 residential studios and 2 businesses (Brasserie & Lebanese restaurant)",208.0,https://docs.google.com/spreadsheets/d/1MpsWi-9A8CKDwRQzP9zFABUzKgci5C7U51V6f341KFU/edit?usp=drive_link,9/17/2024,0,Mandougou Boicel,Market,https://www.realtor.ca/real-estate/27440310/3632-3638-rue-st-denis-montr%C3%A9al-le-plateau-mont-royal-le-plateau-mont-royal,,$2621300.00,709.7,100.0,88,1949,checked,,,"""3632 - 3638, rue saint-denis""",$281032,$154302,$3471719,$462982,$324500,9/19/2024,,,https://www.google.com/maps/search/?api=1&query=3632%20-%203638%2C%20Rue%20Saint-Denis,Wahab Ab,Wahab Ab,,,,,High,,,,0%,,,https://www.walkscore.com/score/3632%20-%203638%2B%20Rue%20Saint-Denis,3100000.0,18.0,1949.0,100.0,88.0,4330312.503386901,4330312.503386901
+"175A - 175B, Rue Napoléon",Lead,Le Plateau-Mont-Royal,11,3.91%,5.61%,$272636,$2999000.00,$2035599.21,,171.0,https://docs.google.com/spreadsheets/d/1bLZESLdF2qSy0aulev6KbUKExcfYj4mk_jFegi7yHmk/edit?gid=1465701656#gid=1465701656,10/24/2024,0,Yanick E. Sarrazin,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-ahuntsic-cartierville/25835129?view=Summary&uc=25,,$2836600.00,,100.0,80,1875,checked,,,"""175A - 175B, Rue Napoléon""",$163648,$117120,$3249358,$230224,$182300,11/5/2024,,,https://www.google.com/maps/search/?api=1&query=175A%20-%20175B%2C%20Rue%20Napol%C3%A9on,Wahab Ab,Wahab Ab,,,,,,,,,0%,,,https://www.walkscore.com/score/175A%20-%20175B%2B%20Rue%20Napol%C3%A9on,2999000.0,11.0,1875.0,100.0,80.0,3760001.4039073866,3760001.4039073866
+"5937Z - 5959Z, Avenue de l'Esplanade",Lead,Le Plateau-Mont-Royal,12,1.86%,6.15%,$241667,$2900000.00,$2035599.21,,367.0,https://docs.google.com/spreadsheets/d/1cPfZlgtaq29Y9IShEF2nmYgqxJNRE13BCc482IwrXJw/edit?usp=drive_link,4/11/2024,0,Marc-André Knot,Market,,$128704.0,$2798800.00,,95.0,79,1910,checked,,,"""5937Z - 5959Z, Avenue de l'Esplanade""",$118053,$55869,$3464522,$279360,$212962,2/18/2025,,,https://www.google.com/maps/search/?api=1&query=5937Z%20-%205959Z%2C%20Avenue%20de%20l%27Esplanade,Wahab Ab,Wahab Ab,,,,,Medium,,,,4%,,,https://www.walkscore.com/score/5937Z%20-%205959Z%2B%20Avenue%20de%20l%27Esplanade,2900000.0,12.0,1910.0,95.0,79.0,3449822.9295043605,3449822.9295043605
+"1800, boulevard Saint-Joseph Est",Lead,Le Plateau-Mont-Royal,13,,,$213462,$2775000.00,$2035599.21,,597.0,,8/25/2023,0,Roger Vassallo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2775000.0,13.0,,,,2934089.461919984,2934089.461919984
+,Market,,$175116.0,$2051400.00,,99,67,,,,,,1,,,,,,,,https://www.google.com/maps/search/?api=1&query=1800%2C%20boulevard%20Saint-Joseph%20Est,Wahab Ab,Wahab Ab,,,,,High,,,,6%,,,https://www.walkscore.com/score/1800%2B%20boulevard%20Saint-Joseph%20Est,,,,,,,,,,,,,,,67.0,,,,,1835698.722419744,1835698.722419744
+"1811 - 1815, Boulevard Saint-Joseph Est",Lead,Le Plateau-Mont-Royal,13,3.13%,5.89%,$192231,$2499000.00,$2035599.21,,146.0,https://docs.google.com/spreadsheets/d/1b43SDj29n3yulu3PMFwMwWMbiImKmUorllq97Tg0yYs/edit?gid=633605388#gid=633605388,11/18/2024,0,,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-le-plateau-mont-royal/27603054?view=Summary,,$2448500.00,,99.0,67,,checked,,,"""1811 - 1815, Boulevard Saint-Joseph Est""",$143790,$78213,$2950254,$241394,$173849,11/18/2024,,,https://www.google.com/maps/search/?api=1&query=1811%20-%201815%2C%20Boulevard%20Saint-Joseph%20Est,Wahab Ab,Wahab Ab,,,,,,,,,0%,,,https://www.walkscore.com/score/1811%20-%201815%2B%20Boulevard%20Saint-Joseph%20Est,2499000.0,13.0,,99.0,67.0,4185142.3383403714,4185142.3383403714
+"7 - 25, Avenue Roosevelt",Modelled,Le Plateau-Mont-Royal,36,4.46%,5.16%,$0,$0.00,$2035599.21,"JM 03/27
+
+No change on evalweb
+Nom
+IMMEUBLES 7 & 25 ROOSEVELT S.E.C.
+Statut aux fins d'imposition scolaire
+Personne morale
+Adresse postale
+2175 DE LA MONTAGNE 200, MONTREAL QUEBEC, H3G 1Z8
+Date d'inscription au rôle
+2022-09-08",163.0,https://docs.google.com/spreadsheets/d/1tybfkILEy3WyMSCtoKLpNZvSQjLeaaZe9JeZ-UnpPD4/edit?gid=633605388#gid=633605388,11/1/2024,0,,Off-Market,,$666180.0,$8623000.00,,91.0,0,1944,checked,,,"""7 - 25, Avenue Roosevelt""",$648859,$490496,$11812703,$773019,$609905,11/1/2024,,,https://www.google.com/maps/search/?api=1&query=7%20-%2025%2C%20Avenue%20Roosevelt,Wahab Ab,Wahab Ab,,,,,High,,,,Infinity,,,https://www.walkscore.com/score/7%20-%2025%2B%20Avenue%20Roosevelt,0.0,36.0,1944.0,91.0,0.0,2309696.887009359,2309696.887009359
+"495, Rue Prince Arthur Ouest",Lost,Le Plateau-Mont-Royal,74,,,$0,$0.00,$2035599.21,"JM 03/27
+Transaction completed
+Nom
+PRINCE ARTHUR RÉSIDENCES S.E.C.
+Statut aux fins d'imposition scolaire
+Personne morale
+Adresse postale
+1350 SHERBROOKE O 200, MONTREAL QUEBEC, H3G 1J1
+Date d'inscription au rôle
+2025-02-28",,,,0,Marc Hetu,Off-Market,,$1086360.0,$15323600.00,,97.0,82,1911,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=495%2C%20Rue%20Prince%20Arthur%20Ouest,Wahab Ab,Wahab Ab,,,,,Low,,,,Infinity,,,https://www.walkscore.com/score/495%2B%20Rue%20Prince%20Arthur%20Ouest,0.0,74.0,1911.0,97.0,82.0,3936043.973429952,3936043.973429952
+"3475, Rue Durocher",Lost,Le Plateau-Mont-Royal,55,,,$0,$0.00,$2035599.21,"JM 03/27
+Change of ownership Feb 28 2025
+
+Nom
+9529-6489 QUÉBEC INC.
+Statut aux fins d'imposition scolaire
+Personne morale
+Adresse postale
+1205 SHEARER , MONTREAL QUEBEC, H3K 2J9
+Date d'inscription au rôle
+2025-02-28",,,,0,Marc Hetu,Off-Market,,$813360.0,$10115000.00,,90.0,92,1961,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=3475%2C%20Rue%20Durocher,Wahab Ab,Wahab Ab,,,,,Low,,,,Infinity,,,https://www.walkscore.com/score/3475%2B%20Rue%20Durocher,0.0,55.0,1961.0,90.0,92.0,2079186.691197691,2079186.691197691
+"290 - 316, Rue Murray",Lead,Le Sud-Ouest,13,,,$730769,$9500000.00,$3695511.88,,276.0,,7/11/2024,0,Konstantinos Archontakis,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-le-plateau-mont-royal/28555679?view=Summary,$447300.0,$1956700.00,,98.0,85,1910,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=290%20-%20316%2C%20Rue%20Murray,Wahab Ab,Wahab Ab,,,,,Medium,,,,5%,,,https://www.walkscore.com/score/290%20-%20316%2B%20Rue%20Murray,9500000.0,13.0,1910.0,98.0,85.0,6112638.583388146,6112638.583388146
+"1760 - 1770, Avenue de l'Église",Modelled,Le Sud-Ouest,27,2.26%,4.74%,$221852,$5990000.00,$3695511.88,"JM - 03/17
+Spoke to Quan he will send me info re: rev
+no offers",276.0,https://docs.google.com/spreadsheets/d/1eeGGzA_dheVgGZi3L4Rd6f_0S-6xLGa0RLjSQxya5v4/edit?gid=1490799601#gid=1490799601,7/11/2024,0,Quan Liang Yu,Market,https://www.realtor.ca/immobilier/26219528/1760-1770-av-de-l%C3%A9glise-montr%C3%A9al-le-sud-ouest-c%C3%B4te-saint-paul,$288840.0,$2180100.00,2102.8,89.0,63,1961,checked,,,"""1760 - 1770, Avenue de l'Église""",$280175,$145406,$7109503,$477565,$337064,4/8/2025,"Cw2Bc3oha7-t4lE04KTcNycLGSeZRP4MGU01Co65HqYcIJjNvKiPcGebTGtvs1HoA2pLMmbF_J8JcYDu5QR0Ew.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1744596000000/xWsYNRMKEOdmcZTmKl9Xig/GvOSLEG10Ppd82hCENgVV3qibXcUrGGoN4U7E8zBFWft4IRAZBdfw3lFhcqeJjL6rrFb_1kMRJHTRNcgth2r9SIo6_yA44GBivWkvAufw-Izs-cAjljO_QYlqPdudgp4GWKIvtc69tc2oN_7IN9NZ0lG_EPrWIExukIW0psdJdfRXhWjLu4W362jVfSAuCC7C75KRIQs6hVaWjHzka_5k70202nSL9PU_VBpPmm7vxm0GrMo0GzeOwlj1LNBpAwfo5J_RF3NC-0PBE4w0eQ4ww/a_nHPDRG901XUndyHmGXPAP5Y2hb_bNzRfTc-5sQxU8),0RVcnbBZ5PFW9IypmWIdjgtgNdJ_feVFlYFcN1oHSsvYVcKNrGWKJ7l4Z8mraZ3Zhmus8-3DfAVDdJLmckrZ7A.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1744596000000/1GwxxQk_ZqG-xzQIwa7t7Q/lHZ7zGZJEGf7GmXO2noFcaEc0vscruQKFOcr_PLXQBlFQvp1s5vJfDrKFVqqZNyRoWQxGE_6WH9SKLXhlI2lib4Awsd6m6yPGEglhTWww2dGcVCFg_CkfL4o0TKQQ4XqiZZWFzm5vMnUBnKLZYq8imYy84YMmWXVwonxhNk_vkGnQF-uACF-sQMKYGAoWSSUU678EkIA5XcOZuCDDRABi9KAulKMW-juyG8pE38dZnfj5j3yPn3yiG6w9UmTpT_R9MbQVm6sI0O0gcVpBcUR9Q/f7RiSQ1dKWGUAXw2q_xpV_1RHxcZEfkIKVuIMhQGWTg)",,https://www.google.com/maps/search/?api=1&query=1760%20-%201770%2C%20Avenue%20de%20l%27%C3%89glise,Wahab Ab,Wahab Ab,1760-1770 Ave de L'Eglise,3/27/2025,,,Medium,,,https://drive.google.com/drive/folders/1ASgGQxcorAZeirD7G1Ewsng_p22K3M-q,5%,Property Analysis,Done,https://www.walkscore.com/score/1760%20-%201770%2B%20Avenue%20de%20l%27%C3%89glise,5990000.0,27.0,1961.0,89.0,63.0,5045027.901463508,5045027.901463508
+"720, Avenue Marin",Modelled,Le Sud-Ouest,12,,,$266667,$3200000.00,$3695511.88,,373.0,,4/5/2024,0,,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-mercier-hochelaga-maisonneuve/13448190?view=Summary,$175380.0,$2203200.00,1123.5,97.0,93,,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=720%2C%20Avenue%20Marin,Wahab Ab,Wahab Ab,,,,,Medium,,,,5%,,,https://www.walkscore.com/score/720%2B%20Avenue%20Marin,3200000.0,12.0,,97.0,93.0,3126404.1531397556,3126404.1531397556
+"4001 - 4005, Rue Notre-Dame Ouest",Lead,Le Sud-Ouest,11,5.92%,6.14%,$272727,$3000000.00,$3695511.88,,178.0,https://docs.google.com/spreadsheets/d/1aCqQN0c6RHg1UyI61PnWLAcX2sYR1pFCiyxsMirILmk/edit?gid=633605388#gid=633605388,10/17/2024,0,Saguy Elbaz,Market,https://www.centris.ca/en/multi-family-properties~for-sale~westmount/19189997?view=Summary,,$2022500.00,,98.0,88,1875,checked,,,"""4001 - 4005, Rue Notre-Dame Ouest""",$256104,$184769,$3181076,$268909,$195434,10/31/2024,,,https://www.google.com/maps/search/?api=1&query=4001%20-%204005%2C%20Rue%20Notre-Dame%20Ouest,Wahab Ab,Wahab Ab,,,,,,,,,0%,,,https://www.walkscore.com/score/4001%20-%204005%2B%20Rue%20Notre-Dame%20Ouest,3000000.0,11.0,1875.0,98.0,88.0,3940196.692681815,3940196.692681815
+"5651 - 5661, Rue Hadley",Lead,Le Sud-Ouest,11,,,$245445,$2699900.00,$3695511.88,,265.0,,7/22/2024,0,Frédéric Papineau,Market,,$163800.0,$2212000.00,,92.0,59,2021,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=5651%20-%205661%2C%20Rue%20Hadley,Wahab Ab,Wahab Ab,,,,,High,,,,6%,,,https://www.walkscore.com/score/5651%20-%205661%2B%20Rue%20Hadley,2699900.0,11.0,2021.0,92.0,59.0,3911010.4692733954,3911010.4692733954
+"4293 - 4305, Rue Saint-Jacques",Contacted,Le Sud-Ouest,22,,,$111364,$2450000.00,$3695511.88,"JM 03/25
+Revs and expenses received. City of Montreal has right of first refusal
+
+JM 03/24
+Left a vm and emailed for rev and expenses
+
+Rooming house",,,,0,Carmine Padula,Market,https://www.centris.ca/fr/multifamilial~a-vendre~montreal-le-sud-ouest/20418361?view=Summary&utm_source=alert&utm_medium=email&utm_content=listing,$136000.0,$823900.00,444.0,97.0,84,1900,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=4293%20-%204305%2C%20Rue%20Saint-Jacques,Wahab Ab,Wahab Ab,Interesting properties recently published on Centris,3/25/2025,Unnamed record,"sAqLpP_RX1XzGe8yEWwB5FD93218cM0WXX5_JeknBMWxxxa43ZGFq9HtbBvk4dgxHf-41k1W-sk62I7B7bbWcQ (https://v5.airtableusercontent.com/v3/u/40/40/1744596000000/jwf30Gnbqdl9WNfXoTn72Q/AOTrPny88h4CGVeJM2OtHSUn5b_lqkZiaOYborRkBiG0IwqXBX-PGM44Hv_Z7Lfa3EvM4v7aDKwlMSFja4qmx8vbPGiTVCFWCJL0CDscrwp2kJrfWCwHPMCYZKE3pLdU8cXi6bpChnCxiYD-IZUtQ7pb-H59O1jla_ikdno8TlIRepKsWrN-Uji3bF7nxVZ9wx4TqYrd4_Y08sOksWFGHgqjgYDyJ-hG9a1pxJ6YeZzEUBpccCYKlJVRz0484XZg/PsH0cCnFcOfKmV5cZniiyVGGb4GxlW8PTzjAQzrX6qQ),VR7ehmD8WYzyZdy6fDyNzHCWqg05s0O6w_qb8LUF88CXY5t9wRQ3RB_Jf1XGESiIRckDh7vy9VV5vTEQkwbhxA (https://v5.airtableusercontent.com/v3/u/40/40/1744596000000/MMXIwr9ZGawZDXKhgD_aNA/iDchh-dHqvE4fcwNqPZL5NdXbUB0dMgqyIK-JBedA1wyb0g-4OjypwvCP2eTSKEofuIDVhWMLMjAq2tAlq9nNXOT97QKmV0V2Ryvu8FMJIARETJCd9zMilQepFYzzKMM7Y3e1XPPVjei-a3OGb0MquYsSc2GIlxZjTbiwKYwzWLVoD8isAJWeDU9kH9E0c-7yjPOMJmxTut5FgvGiS5dLAVp5-i734tFEdGs5a4tAd7EoYW0k7LiQTcTf-UaJRCg/X9_oMbGBZAf1P129PGOSTve-zl6aAbpO1_kiEoC1T8c)",High,,,,6%,,,https://www.walkscore.com/score/4293%20-%204305%2B%20Rue%20Saint-Jacques,2450000.0,22.0,1900.0,97.0,84.0,3940406.607642184,3940406.607642184
+"5769 - 5795, Rue Hamilton",Modelled,Le Sud-Ouest,13,,,$181538,$2360000.00,$3695511.88,,354.0,,4/24/2024,0,,Off-Market,,$133008.0,$2361900.00,376.3,91.0,57,,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=5769%20-%205795%2C%20Rue%20Hamilton,Wahab Ab,Wahab Ab,,,,,Medium,,,,6%,,,https://www.walkscore.com/score/5769%20-%205795%2B%20Rue%20Hamilton,2360000.0,13.0,,91.0,57.0,2726594.4388046497,2726594.4388046497
+"12100-12104, Avenue l'Archevêque",Contact Vendor ,Montréal-Nord,168,4.23%,5.74%,$133929,$22500000.00,$367802.60,"JM 03/27
+No change of ownership
+Nom
+LES APPARTEMENTS MONTREAL-NORD LTEE
+Statut aux fins d'imposition scolaire
+Personne morale
+Adresse postale
+12104 AV L'ARCHEVEQUE 40, MONTREAL-NORD QUEBEC, H1H 3C1
+Date d'inscription au rôle
+1998-01-01",52.0,https://docs.google.com/spreadsheets/d/1oEkOLAPPeuq_tuE-53ZvBHW8Rhjo4Pup1d5MgEE69q8/edit?usp=drive_link,2/20/2025,0,Marc-André Knot,Pocket Listing,,$1711620.0,$16315100.00,8730.0,74.0,66,1960,checked,,,"""12100-12104, Avenue l'Archevêque""",$1687393,$951181,$25959839,$2281439,$1490263,2/16/2025,,,https://www.google.com/maps/search/?api=1&query=12100-12104%2C%20Avenue%20l%27Archev%C3%AAque,Wahab Ab,Mamoun Moamah,,,,,Very High,,,,8%,,,https://www.walkscore.com/score/12100-12104%2B%20Avenue%20l%27Archev%C3%AAque,22500000.0,168.0,1960.0,74.0,66.0,19871558.333333332,19871558.333333332
+"3270, boulevard Gouin Est",Lead,Montréal-Nord,22,4.82%,4.98%,$281773,$6199000.00,$367802.60,,219.0,https://docs.google.com/spreadsheets/d/1HO1wt5amRscXaXIIQnY-CI-QeIxNsJslw2N9eAK6kmM/edit?usp=drive_link,9/6/2024,0,Mario Thellend,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-le-plateau-mont-royal/14325655?view=Summary,$402600.0,$2034500.00,1006.1,82.0,65,1961,checked,,,"""3270, boulevard Gouin Est""",$401998,$313547,$6648508,$422098,$330994,9/6/2024,,,https://www.google.com/maps/search/?api=1&query=3270%2C%20boulevard%20Gouin%20Est,Wahab Ab,Wahab Ab,,,,,High,,,,6%,,,https://www.walkscore.com/score/3270%2B%20boulevard%20Gouin%20Est,6199000.0,22.0,1961.0,82.0,65.0,4591063.678545218,4591063.678545218
+"12301, Avenue Germain",Modelled,Montréal-Nord,18,3.70%,4.61%,$272167,$4899000.00,$367802.60,"Excellente opportunité pour investisseurs! Immeuble résidentiel de 18 unités (8 x 4 1/2 et 10 x 5 1/2) avec revenus bruts potentiels de 285 336$/an, dont 275 796$/an en revenus résidentiels. Offrant 12 stationnements intérieurs, 18 espaces de rangement à louer et une buanderie, il présente un fort potentiel de rentabilité. Situé près des boulevards principaux et des autoroutes 25 et 19, avec un accès facile à Laval et Montréal, ainsi qu'aux commerces, écoles et services.",5.0,https://docs.google.com/spreadsheets/d/1YCQ8JuJFFYiUPuruleuMGCvJcK1HLgvHDEfzoVPsJG4/edit?gid=1146138128#gid=1146138128,4/8/2025,0,Alex Haddou ,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-montreal-nord/17364182?view=Summary&utm_source=alert&utm_medium=email&utm_content=listing,$285336.0,$2363000.00,1697.0,45.0,62,1971,checked,,,"""12301, Avenue Germain""",$276834,$181231,$5819431,$373923,$268197,4/9/2025,FICHE mls.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1744596000000/klpDceeCAgPUrbg8lkfXng/G3NblY4O8Qr1GIp8FXRwkgg86RRS6vmfPzspfmYkz0sJ5Q8zzEYfYD-iwDgcDZFYj1L-u5D0TqR0vEd592UmPJzEXaga8jjdNaY-ukeCfQlQRYgZsXdp3vuK6-OL80teKrLQZpvdzZMMvgwb-RA6gg-bLm-h1PdyQ-4MH0fv4fM/t70mYdu2rHPTqQKS-2X1ZltdOYmCo9GTSL4Kp_EHHsQ),,https://www.google.com/maps/search/?api=1&query=12301%2C%20Avenue%20Germain,Jonathan Mills,Wahab Ab,Underwriting 12301 Ave Germain,4/8/2025,,,Medium,,,https://drive.google.com/drive/folders/1siuYZ0QlbhxM5nZamuKihrw8vfLt-oTB,6%,Property Analysis,Done,https://www.walkscore.com/score/12301%2B%20Avenue%20Germain,4899000.0,18.0,1971.0,45.0,62.0,5767785.76661385,5767785.76661385
+"6020, Rue Renoir",Modelled,Montréal-Nord,21,,,$184524,$3875000.00,$367802.60,"JM 03/27
+No longer listed, no change on evalweb
+Nom
+8190461 CANADA INC
+Statut aux fins d'imposition scolaire
+Personne morale
+Adresse postale
+78 RICHARD , L'ILE-BIZARD QUEBEC, H9E 1E7
+Date d'inscription au rôle
+2012-09-27",310.0,,6/7/2024,0,,Off-Market,,$222540.0,$2808500.00,1618.9,94.0,65,,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=6020%2C%20Rue%20Renoir,Wahab Ab,Wahab Ab,,,,,Medium,,,,6%,,,https://www.walkscore.com/score/6020%2B%20Rue%20Renoir,3875000.0,21.0,,94.0,65.0,3921055.31015081,3921055.31015081
+"5345 - 5353, Rue de Charleroi",Lead,Montréal-Nord,18,,,$180556,$3250000.00,$367802.60,,426.0,,2/12/2024,0,Stefano Messina,Market,,$161160.0,$2080800.00,,91.0,66,,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=5345%20-%205353%2C%20Rue%20de%20Charleroi,Wahab Ab,Wahab Ab,,,,,Medium,,,,5%,,,https://www.walkscore.com/score/5345%20-%205353%2B%20Rue%20de%20Charleroi,3250000.0,18.0,,91.0,66.0,3541745.9559484962,3541745.9559484962
+"4840, boulevard Henri-Bourassa Est",Lead,Montréal-Nord,15,,,$163267,$2449000.00,$367802.60,,289.0,,6/28/2024,0,Joseph Odorisio,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-est/13873650?view=Summary,$139236.0,$1815300.00,1180.3,88.0,67,,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=4840%2C%20boulevard%20Henri-Bourassa%20Est,Wahab Ab,Wahab Ab,,,,,High,,,,6%,,,https://www.walkscore.com/score/4840%2B%20boulevard%20Henri-Bourassa%20Est,2449000.0,15.0,,88.0,67.0,2930010.1191743272,2930010.1191743272
+"4981 - 4999, boulevard Henri-Bourassa Est",Contacted,Montréal-Nord,11,,,$181727,$1999000.00,$367802.60,"JM 03/21
+Left a message for Maria to call me back
+
+1 x 3 ½, 9 x 4 ½, 1 x 5 ½
+Contamination in the soil",1198.0,,1/1/2022,0,Maria Greco,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-montreal-nord/21883075?view=Summary&uc=25,$133080.0,$855500.00,,79.0,67,,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=4981%20-%204999%2C%20boulevard%20Henri-Bourassa%20Est,Wahab Ab,Wahab Ab,,,,,High,,,,7%,,,https://www.walkscore.com/score/4981%20-%204999%2B%20boulevard%20Henri-Bourassa%20Est,1999000.0,11.0,,79.0,67.0,2609925.446164128,2609925.446164128
+"11550, Avenue Balzac",Lost,Montréal-Nord,12,,,$158250,$1899000.00,$367802.60,"Nom
+ST-PIERRE, CLAUDINE
+Statut aux fins d'imposition scolaire
+Personne physique
+Adresse postale
+10215 WAVERLY 1, MONTREAL QUEBEC, H3I 2W2
+Date d'inscription au rôle
+2024-06-20
+Nom
+PARENTEAU, MAXIME
+Statut aux fins d'imposition scolaire
+Personne physique
+Nom
+DUMONT, JULIE
+Statut aux fins d'imposition scolaire
+Personne physique",,,,0,,Market,,$131220.0,$1549400.00,,85.0,67,,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=11550%2C%20Avenue%20Balzac,Wahab Ab,Automations,,,,,Low,,,,7%,,,https://www.walkscore.com/score/11550%2B%20Avenue%20Balzac,1899000.0,12.0,,85.0,67.0,2476377.785449143,2476377.785449143
+"5480, boulevard Léger",Lost,Montréal-Nord,24,11.39%,11.88%,$72917,$1750000.00,$367802.60,"JM - 03/17
+No longer on market
+Nom
+9301-8232 QUÉBEC INC.
+Statut aux fins d'imposition scolaire
+Personne morale
+Adresse postale
+8048 PAUL-DE MAUREL , MONTREAL QUEBEC, H1E 2W4
+Date d'inscription au rôle
+2019-05-01",215.0,https://docs.google.com/spreadsheets/d/1bDcnCQCeXpzIgLSA3wnEhrozdDE_eCA5opqEO05UO9g/edit?usp=drive_link,9/10/2024,0,Matthieu Lanctôt,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-rosemont-la-petite-patrie/24709414?view=Summary,,$1088300.00,445.6,80.0,66,1975,checked,,,"""5480, boulevard Léger""",$343076,$199350,$1785670,$360229,$212192,9/25/2024,,,https://www.google.com/maps/search/?api=1&query=5480%2C%20boulevard%20L%C3%A9ger,Wahab Ab,Wahab Ab,,,,,Low,,,,0%,,,https://www.walkscore.com/score/5480%2B%20boulevard%20L%C3%A9ger,1750000.0,24.0,1975.0,80.0,66.0,3715879.9343684744,3715879.9343684744
+"610 - 614, Avenue Champagneur",Under Contract with Third Party,Outremont,17,2.74%,5.66%,$523529,$8900000.00,$948725.80,"Ideal location, in the heart of Outremont, corner of Bernard (1257 and 1261 Av. Bernard) and Champagneur (610-612-614 Av. Champagneur), opposite Théatre Outremont. Pedestrian street in summer, terraces, various shops, outdoor shows. This magnificent 60-by-100-foot building houses meticulously maintained apartments with an Outremont style, as well as several offices and shops. Exceptional setting with easy access to downtown. GST/QST must be added to the asking price (55230596)
+
+12 residential 5 commercial ",276.0,https://docs.google.com/spreadsheets/d/1ZdBSYLE88VWeW8j0zji-9eawnrDPMn9MkzBDkgL3xdg/edit?usp=drive_link,7/11/2024,0,Mitzi Morganti,Market,https://www.realtor.ca/real-estate/27229719/610-614-av-champagneur-montr%C3%A9al-outremont,,$7300800.00,1274.1,98.0,72,1924,checked,,,"""610 - 614, Avenue Champagneur""",$484601,$316665,$12251858,$919354,$693661,7/30/2024,,,https://www.google.com/maps/search/?api=1&query=610%20-%20614%2C%20Avenue%20Champagneur,Wahab Ab,Wahab Ab,Follow up after deadline,3/26/2025,,,Low,,,,0%,,,https://www.walkscore.com/score/610%20-%20614%2B%20Avenue%20Champagneur,8900000.0,17.0,1924.0,98.0,72.0,6981344.366283668,6981344.366283668
+"1577, Avenue Van Horne",Lead,Outremont,17,,,$252941,$4300000.00,$948725.80,,76.0,,1/27/2025,0,Amélie Jolicoeur,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-mercier-hochelaga-maisonneuve/17241935?view=Summary&uc=25,$256956.0,$4140500.00,1499.1,96.0,71,1929,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=1577%2C%20Avenue%20Van%20Horne,Wahab Ab,Wahab Ab,,,,,Medium,,,,6%,,,https://www.walkscore.com/score/1577%2B%20Avenue%20Van%20Horne,4300000.0,17.0,1929.0,96.0,71.0,4150090.8201858234,4150090.8201858234
+"445, boulevard Saint-Joseph",Lead,Outremont,59,4.27%,4.38%,$0,$0.00,$948725.80,,206.0,https://docs.google.com/spreadsheets/d/1rsJnge90T2mNJg7SJ6XGfiIpAYtwaviiutvYjwg821M/edit?usp=drive_link,9/19/2024,0,Pietro Longo,Market,,$781908.0,$20790000.00,7275.1,81.0,0,,checked,,,"""445, boulevard Saint-Joseph""",$1472346,$1066746,$25722930,$1545206,$1127438,9/19/2024,,,https://www.google.com/maps/search/?api=1&query=445%2C%20boulevard%20Saint-Joseph,Wahab Ab,Wahab Ab,,,,,High,,,,Infinity,,,https://www.walkscore.com/score/445%2B%20boulevard%20Saint-Joseph,0.0,59.0,,81.0,0.0,2254684.993730159,2254684.993730159
+"1380 - 1390, Rue Sainte-Catherine Est",On Hold,Ville-Marie,56,2.83%,6.93%,$300000,$16800000.00,$4474394.69,,276.0,https://docs.google.com/spreadsheets/d/1CX8maXoDd85pCWDbOJRvtqI-PS5IPu3gKMuScH6NsLA/edit?usp=drive_link,7/11/2024,0,Albert Sayegh,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-ville-marie/21899631?view=Summary,,$13364400.00,,98.0,86,1978,checked,,,"""1380 - 1390, Rue Sainte-Catherine Est""",$950481,$474692,$19456506,$1951136,$1348421,7/22/2024,,,https://www.google.com/maps/search/?api=1&query=1380%20-%201390%2C%20Rue%20Sainte-Catherine%20Est,Wahab Ab,Wahab Ab,,,,,Low,,,,0%,,,https://www.walkscore.com/score/1380%20-%201390%2B%20Rue%20Sainte-Catherine%20Est,16800000.0,56.0,1978.0,98.0,86.0,13045028.386243384,13045028.386243384
+"2018 - 2020, Rue Saint-Denis",Modelled,Ville-Marie,36,4.27%,4.10%,$243056,$8750000.00,$4474394.69,"JM 03/27
+No change in ownership
+Nom
+2018 ST-DENIS INC.
+Statut aux fins d'imposition scolaire
+Personne morale
+Adresse postale
+2550 CH BATES 303, MONTREAL QUEBEC, H3S 1A7
+Date d'inscription au rôle
+2022-05-10",33.0,https://docs.google.com/spreadsheets/d/1yutEUTNH6SApILliySKMLfZ5l4ur_PzzupTQsVNLl8Q/edit?gid=1490799601#gid=1490799601,3/11/2025,0,Julien Marois,Market,https://www.centris.ca/fr/multifamilial~a-vendre~montreal-ville-marie/12257250?view=Summary&uc=2,,$2800000.00,842.5,100.0,91,1870,checked,,,"""2018 - 2020, Rue Saint-Denis""",$514380,$373205,$8990894,$535342,$369035,3/13/2025,,,https://www.google.com/maps/search/?api=1&query=2018%20-%202020%2C%20Rue%20Saint-Denis,Wahab Ab,Wahab Ab,,,,,,,,,0%,,,https://www.walkscore.com/score/2018%20-%202020%2B%20Rue%20Saint-Denis,8750000.0,36.0,1870.0,100.0,91.0,7659484.925013105,7659484.925013105
+"800 - 824, Rue Ontario Est",Lead,Ville-Marie,21,,,$409524,$8600000.00,$4474394.69,,276.0,,7/11/2024,0,Patrick Beaulé,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-lachine/17705235?view=Summary,$655044.0,$5890000.00,,100.0,92,1999,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=800%20-%20824%2C%20Rue%20Ontario%20Est,Wahab Ab,Wahab Ab,,,,,High,,,,8%,,,https://www.walkscore.com/score/800%20-%20824%2B%20Rue%20Ontario%20Est,8600000.0,21.0,1999.0,100.0,92.0,8051436.043728334,8051436.043728334
+"1660 - 1670, Avenue Papineau",Lost,Ville-Marie,16,4.85%,4.96%,$412500,$6600000.00,$4474394.69,"JM 03/26
+Property sold
+Nom
+9440-9620 QUEBEC INC.
+Statut aux fins d'imposition scolaire
+Personne morale
+Adresse postale
+4098 SAINTE-CATHERINE O 205, MONTREAL QUEBEC, H3Z 1P2
+Date d'inscription au rôle
+2024-10-04",276.0,https://docs.google.com/spreadsheets/d/1eViK6zVFg-cfXSfw6AQrfS9YOihVZZ14Jp2U6s3RRfo/edit?usp=drive_link,7/11/2024,0,Alfee Kaufman,Market,,,$1380000.00,917.0,97.0,80,1929,checked,,,"""1660 - 1670, Avenue Papineau""",$390356,$320015,$6800686,$409873,$337422,8/5/2024,,,https://www.google.com/maps/search/?api=1&query=1660%20-%201670%2C%20Avenue%20Papineau,Wahab Ab,Wahab Ab,,,,,Low,,,,0%,,,https://www.walkscore.com/score/1660%20-%201670%2B%20Avenue%20Papineau,6600000.0,16.0,1929.0,97.0,80.0,4325941.924593842,4325941.924593842
+"1085, Rue Berri",Contacted,Ville-Marie,23,,,$260652,$5995000.00,$4474394.69,"JM 03/20 
+Fully renovated, completely empty building
+23 x 2 ½
+",20.0,,3/24/2025,0,,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-riviere-des-prairies-pointe-aux-trembles/21534771?view=Summary,$1.0,$2602600.00,639.9,99.0,90,1956,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=1085%2C%20Rue%20Berri,Wahab Ab,Wahab Ab,Interesting properties recently published on Centris,3/27/2025,,,Medium,,,,0%,,,https://www.walkscore.com/score/1085%2B%20Rue%20Berri,5995000.0,23.0,1956.0,99.0,90.0,5447477.896536559,5447477.896536559
+"2150, Rue Tupper",Contacted,Ville-Marie,18,3.01%,3.54%,$312222,$5620000.00,$4474394.69,"JM 03/27
+70% renovated building",24.0,https://docs.google.com/spreadsheets/d/1FSGLHGzMQsFNCRjrta9e4e1QpDHRtz_qiVHrgW3MQJY/edit?gid=1146138128#gid=1146138128,3/20/2025,0,,Pocket Listing,,$311000.0,$3190900.00,831.7,100.0,90,1900,checked,,,"""2150, Rue Tupper""",$297809,$169399,$6170729,$360258,$218476,3/23/2025,,,https://www.google.com/maps/search/?api=1&query=2150%2C%20Rue%20Tupper,Wahab Ab,Wahab Ab,Underwrite the deal,,"Unnamed record,Unnamed record",FFVHo-t0u_Mu5yvfgKmjz37-XRSiWdZj6wkwNhVKXAeIaAkWC9Dj3EMRyFXPVdT7mKQdPuShqWCTt5gcDJ16Aw (https://v5.airtableusercontent.com/v3/u/40/40/1744596000000/UwYX2H01fkJjck8u7fV4QA/V_Ok-1kUDkyDd7YRd84JH5MIyV4QYecxQmAbyu4AJ9X1w0nDaUIE2SyfDDAfa7cakn71IXYbY36bppbsW7Xbr8qApBs6cGOLlUgHHcBOwxL-Wl8VOHdwASi3b6_n3gxBRl1nCzX-qULiTko1nPM-G4OlokPbBPEa7X_DqiXM9ScEbN1UzE3ZY-TaSEXci3f-iminRJI7M7PVp9T9rDdmOQRCCozQ7cMF0ShLJHwG-8gNO8xwx_k4K8kSfr0Xueuw/ENRxyIk1lx_1PEG776OS32SYqUmTqxGMxpSZ0bFbdPA),Medium,,,,6%,,,https://www.walkscore.com/score/2150%2B%20Rue%20Tupper,5620000.0,18.0,1900.0,100.0,90.0,5267874.535141858,5267874.535141858
+"1818 - 1832, Rue Sainte-Catherine Est",Lead,Ville-Marie,14,,,$389286,$5450000.00,$4474394.69,,27.0,,3/17/2025,0,Florian Leterrier,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-anjou/27059340?view=Summary,$295200.0,$3644600.00,1131.0,98.0,75,1903,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=1818%20-%201832%2C%20Rue%20Sainte-Catherine%20Est,Wahab Ab,Wahab Ab,,,,,Medium,,,,5%,,,https://www.walkscore.com/score/1818%20-%201832%2B%20Rue%20Sainte-Catherine%20Est,5450000.0,14.0,1903.0,98.0,75.0,5380863.738134351,5380863.738134351
+"1935, Rue Tupper",Lost,Ville-Marie,16,,,$278125,$4450000.00,$4474394.69,"JM 03/26
+Property has been sold
+Nom
+MAPAFA GESTION INC.
+Statut aux fins d'imposition scolaire
+Personne morale
+Adresse postale
+8150 BOUL METROPOLITAIN E 250, MONTREAL QUEBEC, H1K 1A1
+Date d'inscription au rôle
+2024-09-19",276.0,,7/11/2024,0,Amy Assaad,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-le-sud-ouest/13724764?view=Summary,,$3600000.00,829.4,100.0,92,1928,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=1935%2C%20Rue%20Tupper,Wahab Ab,Wahab Ab,,,,,Low,,,,0%,,,https://www.walkscore.com/score/1935%2B%20Rue%20Tupper,4450000.0,16.0,1928.0,100.0,92.0,4353427.792850264,4353427.792850264
+"1489 - 1509, boulevard De Maisonneuve Est",Lead,Ville-Marie,17,,,$247000,$4199000.00,$4474394.69,,276.0,,7/11/2024,0,Samuel Benizri,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-ville-marie/27892172?view=Summary,$271896.0,$3985000.00,,98.0,80,,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=1489%20-%201509%2C%20boulevard%20De%20Maisonneuve%20Est,Wahab Ab,Wahab Ab,,,,,High,,,,6%,,,https://www.walkscore.com/score/1489%20-%201509%2B%20boulevard%20De%20Maisonneuve%20Est,4199000.0,17.0,,98.0,80.0,4884645.188537806,4884645.188537806
+"2020, Rue Frontenac",Lead,Ville-Marie,22,4.00%,7.25%,$188636,$4150000.00,$4474394.69,,244.0,https://docs.google.com/spreadsheets/d/1_sto7FCQMbq2KHm2COahvWYWRaFibJ7Dkl4QSHBK5nQ/edit?usp=drive_link,8/12/2024,0,FRANÇOIS NEPVEU,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-mercier-hochelaga-maisonneuve/18492789?view=Summary,$244152.0,$2595000.00,889.4,97.0,76,1964,checked,,,"""2020, Rue Frontenac""",$255856,$179907,$5470268,$479540,$396548,8/13/2024,,,https://www.google.com/maps/search/?api=1&query=2020%2C%20Rue%20Frontenac,Wahab Ab,Wahab Ab,,,,,Medium,,,,6%,,,https://www.walkscore.com/score/2020%2B%20Rue%20Frontenac,4150000.0,22.0,1964.0,97.0,76.0,4055683.3034812696,4055683.3034812696
+"1152 - 1160, Rue Alexandre-DeSève",Lead,Ville-Marie,15,,,$226667,$3400000.00,$4474394.69,,97.0,,1/6/2025,0,Jasmine Zou,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-montreal-nord/11690707?view=Summary&uc=25,,$2150000.00,790.6,95.0,82,1928,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=1152%20-%201160%2C%20Rue%20Alexandre-DeS%C3%A8ve,Wahab Ab,Wahab Ab,,,,,,,,,0%,,,https://www.walkscore.com/score/1152%20-%201160%2B%20Rue%20Alexandre-DeS%C3%A8ve,3400000.0,15.0,1928.0,95.0,82.0,3730265.916114003,3730265.916114003
+"1837 - 1841, Avenue Papineau",Modelled,Ville-Marie,33,3.99%,8.33%,$96939,$3199000.00,$4474394.69,"Number of units at the city is 12 +54 rooms
+City has right of first refusal",11.0,https://docs.google.com/spreadsheets/d/1RT-OC_js3fBosUKkWcQ7xki5r99q6oo7NTZsLvt3obk/edit?gid=1146138128#gid=1146138128,4/2/2025,0,David Pehlivanian,Market,https://pmml.ca/proprietes/multi-logements/1837-1841-papineau-villemarie-e--6bu5sw?c=87f4fffabaff6ce6e38a557b6f26031d8ccfc099f7c63d42a88b16f06a5605b6&utm_campaign=Liste+d%27envoi+VIP&utm_content=Liste+VIP+courriel&utm_medium=email_action&utm_source=pmml,$231460.0,$2034600.00,,95.0,84,,checked,,,"""1837 - 1841, Avenue Papineau""",$228765,$127699,$3890330,$426034,$323882,4/8/2025,,,https://www.google.com/maps/search/?api=1&query=1837%20-%201841%2C%20Avenue%20Papineau,Wahab Ab,Mamoun Moamah,"Underwriting Papineau,Underwriting Papineau",4/2/2025,"Unnamed record,Unnamed record","a30kmJCcAOfnDaGISbENMM3woAHFTHoPJrJ7G0FE3dh4WB8npWipVhwBy2WWhYZds0tau1LKBdi2-A76GUPi3g (https://v5.airtableusercontent.com/v3/u/40/40/1744596000000/RrIs1fJdsZAXVbNDDEHz6Q/jTzXLL58sTH1JMXJMgKuVjyDCmeLcnYTaNvSNAmZbgtWUcRyRz-fKbymyHGfLXcKphbc3Xu59fJCwfnTU0l4LX02r3z7z0ulbXXr1cv0v82s2rSz-LrQVWs64bGqlDTvy-22ad9ASNtQoYcAV6dWoXFqqh-He0PZ9vZkd09qI4_yvbKpXZO3hiBp7szPsxFUfnj2_h_2q3eXjTyvRbum78l0DSO5AvzVXgwXjYGfj6ZxKeroo0gNEi-qflSTQl1e/34Y_Fyk3KOyG5HISYaOL2auxFE3B_wV7cfOZPwdAO80),HQuEF-uRycrZlexczQ9zisz1WLWQ3Qs3CY88nsylbZPBHN5dIvq-AoKjIeyd-Xx0lQh-wQrGgBiZYhVwYIh7KQ (https://v5.airtableusercontent.com/v3/u/40/40/1744596000000/uF6jS2s3NG3Wo8gcktWbtA/gdWwA5oihRa-7kyJN2yzVJkQ4B66lnBNn7RYFuvwiOZcZVDQXiXSCsCZGWacxC4lYmAcZSNyRcaYFModeQM2CERPuWF-ubNaZdOLAgXrslFa0BZEiiS5vGHciPMYklLovqeC-PZU8Jvy0gSPJu0GVQvfk1xbQmcHsQ0Ng3KK_DUkUdl8Za-8e6xqRbkdgE9UizfP6yhpFQshq74UuBe2JOrSrIzS9lOOJBwl-MyTZhJPLevwdADX-lWZrPFKN_An/kKCPVhaMzlR2LVawF4mWoDDugkeAFbUU_8ah9wXA0GM),fEqVssaTLXIAsEYp3QF4y6IIkRHO2aB5V3PJkBiaQQfg7qnZoQ49ij5Fk11c3CFnoiOEP56fT8bzLZS_t_0sKw (https://v5.airtableusercontent.com/v3/u/40/40/1744596000000/ViB18buWfZw4uceGcTrneA/ZyF-zvHd90a2Xk-ZxcweMKWQCqbjf5Y1i6TBIPKhoC6jb2EXZCySDQayHjaxLhGdryO6n_59ndEVqLjxXghJER2hXJB8SWK187Bk67mXTXmenGiHod9M11MHutAhcG8Xy33swxHKOoJutlYUujjcFSKjQ-78ZJVAijprPBCK4qBj_wC7mjI6SJEx3Gia_Ogwvqa8FmK2-NC0WzvvEuvc2NcCQ9mC8vQqTD7CjbEiTwxowl23qpf03uavDkSz9iBB/wMoBZon-ddGH1XcJRq3--dhn7T_aGftJtFvMJtmfKRQ),DfIpRNUZbmtmoSK_Q1Gmvlc4x1_-4fzqWGnqnPQIr21NNTyOPv-UGZg7Qcvu_2UcDbpTG5x1lCv9DqSagp2t9g (https://v5.airtableusercontent.com/v3/u/40/40/1744596000000/KfbIed1BdpFFVenm3ZDpqw/OSG25JFRRlyMFZug8Z9OYF4wriM4zPJzTtx3SlV2IcPJNPF4eh-CSIYf6XhygES9_d3fKli-Jwcw9yTdcWIaVpcLW7aMeMn13wDewp1lsvfDvW7-gAVAtHX5593H_ow1CK-hbF866-YF7NpJfj2u1jUCjRtJ9cebwd98HdarK0ydH3EwEYHM2CRjvGAA0-WkPyU9f98hAC1A8cnJm4Ixl5CXd7CQy9mCRqz30OZAQAbNWFhoaKgA_C-A20Jg7QO3/cjhsnXlpsK0gtQuUpdFRC4-GF-WkbnhSkfLSp7R0e7E),wx9noc69YvFAdWs_l_2rYpFUi_sh2KXx95JrMH4cwz-gWJ2oQ0-j_YPJOLJbzLxw-8XirugDiTOPncG479H-hQ (https://v5.airtableusercontent.com/v3/u/40/40/1744596000000/tU2n5DbSZS5iKuSBfL9lPg/O5Jqkzftb2QvvQ2CJwUjKLsr7u7_seOEupKIYUa0dl3-NIUcqjIKEt7P05zwpWsr3tNXtEoIJzQCgE4wJQSXUcz3F43Z3OCqtqu0OZlZIBGu1rTrUk5iEuvnjRcNu-cjuDsxLfW06fd5JGh-OItJlu8NX4HuGTRDt8hsX1GD_QMuQ0HUIBh1d7sYm0rmyytm8EDw9AjXUN66ZzfYY4OhjA2tEsPRK2UNPRat2gLmjysGaX2KwifzMxGkjo5J42i3/ZjeZyHe78kA858eQyuBf0ZUZ7rabaVC81DW9Duvfucg)",Very High,,,https://drive.google.com/drive/folders/1z1TkYkn4W9lLAT0bXSvWwGCuSTUjhFhG,7%,Property Analysis,Done,https://www.walkscore.com/score/1837%20-%201841%2B%20Avenue%20Papineau,3199000.0,33.0,,95.0,84.0,3524245.8311150954,3524245.8311150954
+"1455, Rue du Fort",Lead,Ville-Marie,12,,,$233333,$2800000.00,$4474394.69,,27.0,,3/17/2025,0,Joelle Bitar,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-villeray-saint-michel-parc-extension/24036776?view=Summary,$121200.0,$1612600.00,272.2,100.0,91,1951,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=1455%2C%20Rue%20du%20Fort,Wahab Ab,Wahab Ab,,,,,Medium,,,,4%,,,https://www.walkscore.com/score/1455%2B%20Rue%20du%20Fort,2800000.0,12.0,1951.0,100.0,91.0,3117566.004931493,3117566.004931493
+"2244, Rue Sherbrooke Est",Lead,Ville-Marie,13,,,$192231,$2499000.00,$4474394.69,,221.0,,9/4/2024,0,Salah Wali Eddine,Market,,$184116.0,$2481100.00,761.4,96.0,74,1955,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=2244%2C%20Rue%20Sherbrooke%20Est,Wahab Ab,Wahab Ab,,,,,High,,,,7%,,,https://www.walkscore.com/score/2244%2B%20Rue%20Sherbrooke%20Est,2499000.0,13.0,1955.0,96.0,74.0,2829988.3528992115,2829988.3528992115
+"2200, Rue Sherbrooke Est",Lead,Ville-Marie,13,,,$188077,$2445000.00,$4474394.69,,568.0,,9/23/2023,0,Maud Laliberté,Market,,$134220.0,$2010000.00,,96.0,74,,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=2200%2C%20Rue%20Sherbrooke%20Est,Wahab Ab,Wahab Ab,,,,,Medium,,,,5%,,,https://www.walkscore.com/score/2200%2B%20Rue%20Sherbrooke%20Est,2445000.0,13.0,,96.0,74.0,2804800.96435563,2804800.96435563
+"1821 - 1845, Rue Atateken",Lost,Ville-Marie,16,,,$124375,$1990000.00,$4474394.69,"Nom
+LES HABITATIONS ATATEKEN INC.
+Statut aux fins d'imposition scolaire
+Personne morale
+Adresse postale
+8150 BOUL METROPOLITAIN E 250, MONTREAL QUEBEC, H1K 1A1
+Date d'inscription au rôle
+2024-12-05",174.0,,10/21/2024,0,Francisco Lopes,Market,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-villeray-saint-michel-parc-extension/22588646?view=Summary,$340200.0,$2200000.00,,100.0,91,,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=1821%20-%201845%2C%20Rue%20Atateken,Wahab Ab,Automations,,,,,Low,,,,17%,,,https://www.walkscore.com/score/1821%20-%201845%2B%20Rue%20Atateken,1990000.0,16.0,,100.0,91.0,3477686.3912838832,3477686.3912838832
+"2000, Rue Saint-Marc",Under Contract with Third Party,Ville-Marie,160,5.49%,5.98%,$0,$0.00,$4474394.69,,164.0,https://docs.google.com/spreadsheets/d/1lwRhL82Z9MWZ56EFVDWSThywJpJ0hu-i_5AZfHaEtLE/edit?gid=633605388#gid=633605388,10/31/2024,0,Sebastien Gatti,Pocket Listing,https://www.centris.ca/en/multi-family-properties~for-sale~montreal-ville-marie/12439770?view=Summary&uc=25,$3010979.0,$28546700.00,,100.0,90,1975,checked,,,"""2000, Rue Saint-Marc""",$2922072,$2197900,$42518123,$3289798,$2543900,11/1/2024,,,https://www.google.com/maps/search/?api=1&query=2000%2C%20Rue%20Saint-Marc,Wahab Ab,Wahab Ab,,,,,Low,,,,Infinity,,,https://www.walkscore.com/score/2000%2B%20Rue%20Saint-Marc,0.0,160.0,1975.0,100.0,90.0,8746712.592592591,8746712.592592591
+"1951, Boulevard De Maisonneuve Est",Lost,Ville-Marie,105,5.05%,5.92%,$0,$0.00,$4474394.69,,164.0,https://docs.google.com/spreadsheets/d/1_SxVnE4E8bI_L8biBmRS5X1aTWWrxH_GAMmuXca9-To/edit?gid=633605388#gid=633605388,10/31/2024,0,Sebastien Gatti,Pocket Listing,,$1953265.0,$20590000.00,,92.0,75,1977,checked,,,"""1951, Boulevard De Maisonneuve Est""",$1917408,$1387815,$29597644,$2298748,$1753268,11/1/2024,,,https://www.google.com/maps/search/?api=1&query=1951%2C%20Boulevard%20De%20Maisonneuve%20Est,Wahab Ab,Wahab Ab,,,,,Low,,,,Infinity,,,https://www.walkscore.com/score/1951%2B%20Boulevard%20De%20Maisonneuve%20Est,0.0,105.0,1977.0,92.0,75.0,5856458.333333333,5856458.333333333
+1381 St Catherine & 1407-1409 Bishop,Lost,Ville-Marie,43,,,$0,,$4474394.69,"JM 03/27
+Transaction completed.
+Nom
+IMMEUBLES PRIME INC.
+Statut aux fins d'imposition scolaire
+Personne morale
+Adresse postale
+1201 SHERBROOKE O , MONTREAL QUEBEC, H3A 1H9
+Date d'inscription au rôle
+2025-01-15",214.0,,9/11/2024,0,,Off-Market,,,,,100.0,96,,,,,,,,,,,,,,https://www.google.com/maps/search/?api=1&query=1381%20St%20Catherine%20%26%201407-1409%20Bishop,Wahab Ab,Wahab Ab,,,,,Low,,,,,,,https://www.walkscore.com/score/1381%20St%20Catherine%20%26%201407-1409%20Bishop,,43.0,,100.0,96.0,6861930.647733976,6861930.647733976

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Live Location Tracker</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-database.js"></script>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+  <style>
+    body { font-family: Arial; margin: 0; padding: 0; }
+    #userList { padding: 15px; background: #f3f3f3; border-bottom: 1px solid #ccc; }
+    #userList h3 { margin-top: 0; }
+    #userList button {
+      margin: 5px;
+      padding: 8px 12px;
+      border: none;
+      background: #007bff;
+      color: white;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    #userList button:hover {
+      background: #0056b3;
+    }
+    #map { height: calc(100vh - 100px); width: 100%; }
+  </style>
+</head>
+<body>
+
+<div id="userList">
+  <h3>📍 Select a user to view location:</h3>
+  <div id="buttons"></div>
+</div>
+
+<div id="map"></div>
+
+<script>
+  // Firebase config
+  const firebaseConfig = {
+    apiKey: "AIzaSyDOFB-FAcuslFyVRSRpnFEJ-r97reDb_H0",
+    authDomain: "livelocationshareapp-435e1.firebaseapp.com",
+    databaseURL: "https://livelocationshareapp-435e1-default-rtdb.firebaseio.com",
+    projectId: "livelocationshareapp-435e1",
+    storageBucket: "livelocationshareapp-435e1.appspot.com",
+    messagingSenderId: "212107377259",
+    appId: "1:212107377259:web:18084123bb16bdc6fdef2e"
+  };
+  firebase.initializeApp(firebaseConfig);
+
+  const map = L.map('map').setView([28.6139, 77.2090], 14);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap'
+  }).addTo(map);
+
+  const marker = L.marker([28.6139, 77.2090]).addTo(map);
+
+  const buttonsDiv = document.getElementById("buttons");
+
+  let liveRef = null; // current live listener
+
+  // Fetch all users
+  const locationsRef = firebase.database().ref("locations");
+  locationsRef.on("value", snapshot => {
+    buttonsDiv.innerHTML = "";
+    const data = snapshot.val();
+    if (data) {
+      Object.keys(data).forEach(user => {
+        const btn = document.createElement("button");
+        btn.innerText = user;
+        btn.onclick = () => startTracking(user);
+        buttonsDiv.appendChild(btn);
+      });
+    }
+  });
+
+  function startTracking(user) {
+    if (liveRef) liveRef.off(); // remove old listener
+    liveRef = firebase.database().ref("locations/" + user);
+    liveRef.on("value", snap => {
+      const data = snap.val();
+      if (data && data.latitude && data.longitude) {
+        const lat = data.latitude;
+        const lon = data.longitude;
+        marker.setLatLng([lat, lon]);
+        map.setView([lat, lon]);
+        console.log(`📍 ${user}: ${lat}, ${lon}`);
+      }
+    });
+  }
+</script>
+
+</body>
+</html>

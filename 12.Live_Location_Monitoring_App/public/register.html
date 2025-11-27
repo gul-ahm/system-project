@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Register New User</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .register-box {
+      background: #fff;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      width: 320px;
+    }
+    h2 {
+      text-align: center;
+    }
+    input, select, button {
+      width: 100%;
+      padding: 10px;
+      margin-top: 10px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    button {
+      background: #28a745;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #218838;
+    }
+  </style>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-database.js"></script>
+</head>
+<body>
+  <div class="register-box">
+    <h2>Register</h2>
+    <input type="text" id="username" placeholder="Full Name" required>
+    <input type="email" id="email" placeholder="Email" required>
+    <input type="text" id="state" placeholder="State" required>
+    <input type="text" id="country" placeholder="Country" required oninput="updatePhoneLength()">
+    <input type="text" id="pincode" placeholder="Pin Code" required>
+    <input type="text" id="phone" placeholder="Phone Number" required>
+    <input type="password" id="password" placeholder="Password" required>
+    <input type="password" id="confirmPassword" placeholder="Confirm Password" required>
+    <button onclick="registerUser()">Register</button>
+  </div>
+
+  <script>
+    const firebaseConfig = {
+      apiKey: "AIzaSyDOFB-FAcuslFyVRSRpnFEJ-r97reDb_H0",
+      authDomain: "livelocationshareapp-435e1.firebaseapp.com",
+      databaseURL: "https://livelocationshareapp-435e1-default-rtdb.firebaseio.com",
+      projectId: "livelocationshareapp-435e1",
+      storageBucket: "livelocationshareapp-435e1.appspot.com",
+      messagingSenderId: "212107377259",
+      appId: "1:212107377259:web:18084123bb16bdc6fdef2e"
+    };
+
+    firebase.initializeApp(firebaseConfig);
+
+    const countryPhoneLengths = {
+      "India": 10,
+      "USA": 10,
+      "UK": 10,
+      "Canada": 10,
+      "Australia": 9
+    };
+
+    function updatePhoneLength() {
+      const country = document.getElementById("country").value.trim();
+      const phone = document.getElementById("phone");
+      if (countryPhoneLengths[country]) {
+        phone.maxLength = countryPhoneLengths[country];
+      } else {
+        phone.removeAttribute("maxLength");
+      }
+    }
+
+    function isTempMail(email) {
+      return email.includes("tempmail") || email.includes("10minutemail") || email.includes("mailinator");
+    }
+
+    function registerUser() {
+      const username = document.getElementById("username").value.trim();
+      const email = document.getElementById("email").value.trim();
+      const state = document.getElementById("state").value.trim();
+      const country = document.getElementById("country").value.trim();
+      const pincode = document.getElementById("pincode").value.trim();
+      const phone = document.getElementById("phone").value.trim();
+      const password = document.getElementById("password").value;
+      const confirmPassword = document.getElementById("confirmPassword").value;
+
+      if (!username || !email || !state || !country || !pincode || !phone || !password || !confirmPassword) {
+        alert("Please fill all fields.");
+        return;
+      }
+      if (isTempMail(email)) {
+        alert("❌ Temp mail addresses are not allowed.");
+        return;
+      }
+      if (password !== confirmPassword) {
+        alert("❌ Passwords do not match.");
+        return;
+      }
+
+      const usersRef = firebase.database().ref("users");
+      usersRef.once("value", (snapshot) => {
+        let duplicate = false;
+        snapshot.forEach((child) => {
+          const data = child.val();
+          if (
+            child.key.toLowerCase() === username.toLowerCase() ||
+            data.email.toLowerCase() === email.toLowerCase() ||
+            data.phone === phone
+          ) {
+            duplicate = true;
+          }
+        });
+
+        if (duplicate) {
+          alert("❌ Username, email, or phone already registered. Use different values.");
+          return;
+        }
+
+        usersRef.child(username).set({
+          email, state, country, pincode, phone, password,
+          registeredAt: Date.now()
+        }, (error) => {
+          if (error) {
+            alert("❌ Registration failed.");
+          } else {
+            alert("✅ User registered successfully!");
+            window.location.href = "index.html";
+          }
+        });
+      });
+    }
+  </script>
+</body>
+</html>

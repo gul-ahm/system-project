@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Live Location Tracker</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-database.js"></script>
+  <style>
+    body { font-family: Arial; text-align: center; padding: 40px; }
+    h2 { margin-bottom: 10px; }
+    #userNameDisplay { font-weight: bold; color: green; }
+  </style>
+</head>
+<body>
+  <h2>📍 Sending Live Location to Firebase...</h2>
+  <p>Tracking as: <span id="userNameDisplay">Waiting...</span></p>
+
+  <script>
+    // ✅ Firebase config
+    const firebaseConfig = {
+      apiKey: "AIzaSyDOFB-FAcuslFyVRSRpnFEJ-r97reDb_H0",
+      authDomain: "livelocationshareapp-435e1.firebaseapp.com",
+      databaseURL: "https://livelocationshareapp-435e1-default-rtdb.firebaseio.com",
+      projectId: "livelocationshareapp-435e1",
+      storageBucket: "livelocationshareapp-435e1.appspot.com",
+      messagingSenderId: "212107377259",
+      appId: "1:212107377259:web:18084123bb16bdc6fdef2e"
+    };
+
+    firebase.initializeApp(firebaseConfig);
+
+    // ✅ Ask user for name
+    let userName = prompt("👤 Enter your name for tracking:");
+    if (!userName) {
+      alert("Name is required to start tracking.");
+      throw new Error("No username provided");
+    }
+    document.getElementById("userNameDisplay").innerText = userName;
+    const ref = firebase.database().ref("locations/" + userName);
+
+    // ✅ Start GPS tracking
+    navigator.geolocation.watchPosition(
+      (pos) => {
+        const lat = pos.coords.latitude;
+        const lon = pos.coords.longitude;
+
+        setInterval(() => {
+          ref.set({
+            latitude: lat,
+            longitude: lon,
+            timestamp: Date.now()
+          });
+          console.log(`✅ [${userName}] Sent:`, lat, lon);
+        }, 5000);
+      },
+      (err) => {
+        alert("❌ GPS Error: " + err.message);
+        console.error("GPS Error:", err.message);
+      },
+      { enableHighAccuracy: true }
+    );
+  </script>
+</body>
+</html>

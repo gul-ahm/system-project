@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Send Live Location to Firebase</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-database.js"></script>
+</head>
+<body style="text-align:center; font-family:sans-serif;">
+  <h2>📡 <b>Sending Live Location to Firebase...</b></h2>
+  <div id="status" style="font-size: 20px; color: green;"></div>
+
+  <script>
+    const firebaseConfig = {
+      apiKey: "AIzaSyDOFB-FAcuslFyVRSRpnFEJ-r97reDb_H0",
+      authDomain: "livelocationshareapp-435e1.firebaseapp.com",
+      databaseURL: "https://livelocationshareapp-435e1-default-rtdb.firebaseio.com",
+      projectId: "livelocationshareapp-435e1",
+      storageBucket: "livelocationshareapp-435e1.appspot.com",
+      messagingSenderId: "212107377259",
+      appId: "1:212107377259:web:18084123bb16bdc6fdef2e"
+    };
+    firebase.initializeApp(firebaseConfig);
+
+    const urlParams = new URLSearchParams(window.location.search);
+    let userId = urlParams.get("user");
+
+    // Ask name if not saved
+    let name = localStorage.getItem("shared_name");
+    if (!name) {
+      name = prompt("Enter your name:");
+      if (!name) {
+        alert("Name required to share location.");
+        throw new Error("No name entered");
+      }
+      localStorage.setItem("shared_name", name);
+    }
+
+    const ref = firebase.database().ref("locations/" + userId);
+    ref.child("name").set(name); // ✅ Save name under user ID
+
+    // Start sending location
+    if (navigator.geolocation) {
+      navigator.geolocation.watchPosition(
+        (pos) => {
+          const lat = pos.coords.latitude;
+          const lon = pos.coords.longitude;
+          document.getElementById("status").innerHTML = `✅ Sharing as <b>${name}</b><br>Lat: ${lat}<br>Lon: ${lon}`;
+          ref.update({
+            latitude: lat,
+            longitude: lon,
+            timestamp: Date.now()
+          });
+        },
+        (err) => {
+          alert("❌ Location Error: " + err.message);
+        },
+        { enableHighAccuracy: true }
+      );
+    } else {
+      alert("Geolocation not supported");
+    }
+  </script>
+</body>
+</html>

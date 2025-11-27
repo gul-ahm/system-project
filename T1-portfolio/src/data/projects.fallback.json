@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ai-sales-forecaster",
+    "title": "AI Sales Predictor",
+    "category": "Machine Learning",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1000&auto=format&fit=crop",
+    "description": "LSTM neural network for precise sales forecasting and inventory management.",
+    "tech": ["Python", "TensorFlow", "Pandas"],
+    "costSpent": 0,
+    "currency": "USD",
+    "demoLink": "",
+    "repoLink": ""
+  },
+  {
+    "id": "web3-defi",
+    "title": "DeFi Exchange",
+    "category": "Web3 Development",
+    "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1000&auto=format&fit=crop",
+    "description": "Decentralized trading platform with smart contract integration.",
+    "tech": ["Solidity", "React", "Web3.js"],
+    "costSpent": 0,
+    "currency": "USD",
+    "demoLink": "",
+    "repoLink": ""
+  },
+  {
+    "id": "ads-optimizer",
+    "title": "Ad ROI Optimizer",
+    "category": "Marketing Tech",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1000&auto=format&fit=crop",
+    "description": "Automated budget allocation script for Meta & Google Ads.",
+    "tech": ["Python API", "Marketing API"],
+    "costSpent": 0,
+    "currency": "USD",
+    "demoLink": "",
+    "repoLink": ""
+  },
+  {
+    "id": "nlp-bot",
+    "title": "Contextual RAG Bot",
+    "category": "AI & NLP",
+    "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?q=80&w=1000&auto=format&fit=crop",
+    "description": "Customer support bot using Retrieval-Augmented Generation for business data.",
+    "tech": ["LLM", "LangChain", "Python"],
+    "costSpent": 0,
+    "currency": "USD",
+    "demoLink": "",
+    "repoLink": ""
+  }
+]

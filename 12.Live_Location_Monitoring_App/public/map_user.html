@@ -1,0 +1,73 @@
+<!-- map_user.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Live Location Map</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-database.js"></script>
+  <style>
+    body { margin: 0; font-family: sans-serif; }
+    #map { height: 90vh; }
+    .header { background: #fff; padding: 10px; text-align: center; font-size: 16px; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <div class="header">
+    📍 <span id="viewer"></span> — Select a user to view location:
+    <div id="buttons"></div>
+  </div>
+  <div id="map"></div>
+
+  <script>
+    const firebaseConfig = { /* your config here */ };
+    firebase.initializeApp(firebaseConfig);
+
+    const viewer = new URLSearchParams(window.location.search).get('user');
+    document.getElementById('viewer').textContent = viewer;
+
+    const map = L.map('map').setView([28.6139, 77.2090], 13);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; OpenStreetMap'
+    }).addTo(map);
+
+    let marker;
+
+    firebase.database().ref(`locations/${viewer}/shared`).on('value', snap => {
+      const container = document.getElementById('buttons');
+      container.innerHTML = '';
+      if (!snap.exists()) {
+        container.innerHTML = '<p>No shared users found.</p>';
+        return;
+      }
+      const users = snap.val();
+      Object.keys(users).forEach(uid => {
+        firebase.database().ref(`locations/${uid}/name`).once('value').then(nameSnap => {
+          const label = nameSnap.exists() ? nameSnap.val() : uid;
+          const btn = document.createElement('button');
+          btn.textContent = label;
+          btn.style.margin = '5px';
+          btn.onclick = () => track(uid);
+          container.appendChild(btn);
+        });
+      });
+    });
+
+    function track(uid) {
+      firebase.database().ref(`locations/${uid}`).on('value', snap => {
+        if (!snap.exists()) return;
+        const loc = snap.val();
+        const lat = loc.latitude, lon = loc.longitude;
+        if (!marker) {
+          marker = L.marker([lat, lon]).addTo(map);
+        } else {
+          marker.setLatLng([lat, lon]);
+        }
+        map.setView([lat, lon], 16);
+      });
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,120 @@
+{
+    "info": {
+        "args": "C:\\Users\\gzar9\\AppData\\Roaming\\Python\\Python314\\Scripts\\dirsearch -u https://chat.artisting.es --extensions=php,js,json,txt --exclude-status=404,301,302,308 --threads=10 --random-agent --timeout=10 --format=json --output E:\\security text\\reports\\dirsearch-20251121-195153.json",
+        "time": "Fri Nov 21 19:56:07 2025"
+    },
+    "results": [
+        {
+            "content-length": 10799,
+            "content-type": "text/html",
+            "redirect": "",
+            "status": 200,
+            "url": "https://chat.artisting.es/account"
+        },
+        {
+            "content-length": 10127,
+            "content-type": "text/html",
+            "redirect": "",
+            "status": 200,
+            "url": "https://chat.artisting.es/billing"
+        },
+        {
+            "content-length": 9982,
+            "content-type": "text/html",
+            "redirect": "",
+            "status": 200,
+            "url": "https://chat.artisting.es/chat"
+        },
+        {
+            "content-length": 47502,
+            "content-type": "text/html",
+            "redirect": "",
+            "status": 200,
+            "url": "https://chat.artisting.es/community"
+        },
+        {
+            "content-length": 30032,
+            "content-type": "text/html",
+            "redirect": "",
+            "status": 200,
+            "url": "https://chat.artisting.es/contact"
+        },
+        {
+            "content-length": 27217,
+            "content-type": "text/html",
+            "redirect": "",
+            "status": 200,
+            "url": "https://chat.artisting.es/cookies"
+        },
+        {
+            "content-length": 34601,
+            "content-type": "text/html",
+            "redirect": "",
+            "status": 200,
+            "url": "https://chat.artisting.es/features"
+        },
+        {
+            "content-length": 11097,
+            "content-type": "text/html",
+            "redirect": "",
+            "status": 200,
+            "url": "https://chat.artisting.es/history"
+        },
+        {
+            "content-length": 42529,
+            "content-type": "text/html",
+            "redirect": "",
+            "status": 200,
+            "url": "https://chat.artisting.es/help"
+        },
+        {
+            "content-length": 13534,
+            "content-type": "text/html",
+            "redirect": "",
+            "status": 200,
+            "url": "https://chat.artisting.es/login"
+        },
+        {
+            "content-length": 26473,
+            "content-type": "text/html",
+            "redirect": "",
+            "status": 200,
+            "url": "https://chat.artisting.es/privacy"
+        },
+        {
+            "content-length": 10804,
+            "content-type": "text/html",
+            "redirect": "",
+            "status": 200,
+            "url": "https://chat.artisting.es/settings"
+        },
+        {
+            "content-length": 15388,
+            "content-type": "text/html",
+            "redirect": "",
+            "status": 200,
+            "url": "https://chat.artisting.es/signup"
+        },
+        {
+            "content-length": 10791,
+            "content-type": "text/html",
+            "redirect": "",
+            "status": 200,
+            "url": "https://chat.artisting.es/status"
+        },
+        {
+            "content-length": 10791,
+            "content-type": "text/html",
+            "redirect": "",
+            "status": 200,
+            "url": "https://chat.artisting.es/status?full=true"
+        },
+        {
+            "content-length": 25976,
+            "content-type": "text/html",
+            "redirect": "",
+            "status": 200,
+            "url": "https://chat.artisting.es/terms"
+        }
+    ]
+}
